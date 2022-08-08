@@ -1,0 +1,5 @@
+geopy
+SimConnect
+pyttsx3
+pyinstaller
+windows-curses
