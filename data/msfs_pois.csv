@@ -1,0 +1,1780 @@
+Type,Name,Ident,Latitude,Longitude,Elevation,Magnetic Declination,Tags,Description
+Settlement,Albany,,37.88687,-122.29774,0,13.25759,,World Update 10 USA
+Settlement,Arlington,,48.18110,-122.13895,,15.65589,,World Update 10 USA
+Settlement,Boise,,43.61662,-116.20089,,13.14304,,World Update 10 USA
+Settlement,Charleston,,38.35060,-81.63328,,-7.93061,,World Update 10 USA
+Settlement,Disney - Kissamme - Windermere,,28.29190,-81.40759,,-6.48057,,World Update 10 USA
+Settlement,Eugene,,44.05051,-123.09505,,14.86623,,World Update 10 USA
+Settlement,Key Largo,,25.08703,-80.44724,,-6.66483,,World Update 10 USA
+Settlement,Lansing,,42.73377,-84.55538,,-6.51048,,World Update 10 USA
+Settlement,Lynchburg,,37.41375,-79.14225,,-8.99474,,World Update 10 USA
+Settlement,Olympia,,47.04510,-122.89500,,15.27912,,World Update 10 USA
+Settlement,San Diego,,32.71742,-117.16277,,11.24940,,World Update 10 USA
+Settlement,Seattle,,47.60621,-122.33207,,15.46945,,World Update 10 USA
+Settlement,Bari,,41.11714,16.87187,,4.17545,,World Update 9 Italy and Malta
+Settlement,Turin,,45.06330,7.66929,,2.70241,,World Update 9 Italy and Malta
+Settlement,Napoli,,40.85180,14.26812,,3.85474,,World Update 9 Italy and Malta
+Settlement,Venice,,45.43760,12.32865,,3.83112,,World Update 9 Italy and Malta
+Settlement,Rome,,41.90278,12.49637,,3.61334,,World Update 9 Italy and Malta
+Settlement,Milan,,45.46420,9.18998,,3.19627,,World Update 9 Italy and Malta
+Settlement,Perugia,,43.11072,12.39083,,3.70298,,World Update 9 Italy and Malta
+Settlement,Parma,,44.80148,10.32790,,3.35926,,World Update 9 Italy and Malta
+Settlement,Ancona,,43.61583,13.51892,,3.90596,,World Update 9 Italy and Malta
+Settlement,Pavia,,45.18472,9.15821,,3.22936,,World Update 9 Italy and Malta
+Settlement,Cittadella,,45.66603,11.78662,,3.65370,,World Update 9 Italy and Malta
+Settlement,Paestum,,40.42699,15.00504,,4.01552,,World Update 9 Italy and Malta
+Settlement,Padua,,45.40643,11.87676,,3.60536,,World Update 9 Italy and Malta
+Settlement,Lisbon,,38.72225,-9.13934,,-1.71932,,World Update 8
+Settlement,Barreiro,,38.66082,-9.07907,,-1.72585,,World Update 8
+Settlement,Malaga,,36.72126,-4.42127,,-0.21489,,World Update 8
+Settlement,Bilbao,,43.26301,-2.93499,,0.26022,,World Update 8
+Settlement,Cascais,,38.69706,-9.42229,,-1.76137,,World Update 8
+Settlement,Coimbra,,40.20332,-8.41026,,-1.51759,,World Update 8
+Settlement,Sydney,,-33.86882,151.20929,,12.87965,,World Update 7
+Settlement,Brisbane,,-27.47045,153.02603,,11.17241,,World Update 7
+Settlement,Melbourne,,-37.81363,144.96306,,11.43444,,World Update 7
+Settlement,Hobart,,-42.88261,147.32571,,15.47598,,World Update 7
+Settlement,Adelaide,,-34.92850,138.60074,,7.95483,,World Update 7
+Settlement,Perth,,-31.95231,115.86131,,-1.97617,,World Update 7
+Settlement,Cairns,,-16.92035,145.77095,,6.51278,,World Update 7
+Settlement,Darwin,,-12.46449,130.84320,,2.37939,,World Update 7
+Settlement,Townsville,,-19.25896,146.81696,,7.29595,,World Update 7
+Settlement,Mackay,,-21.14250,149.18214,,8.37728,,World Update 7
+Settlement,Bunbury,,-33.32564,115.63965,,-2.37318,,World Update 7
+Settlement,Utrecht,,52.09074,5.12142,,2.26071,,GOTY Edition
+Settlement,Nottingham,,52.95478,-1.15811,,-0.14666,,GOTY Edition
+Settlement,Eastbourne,,50.76804,0.29047,,0.59642,,GOTY Edition
+Settlement,Derby,,52.92253,-1.47462,,-0.24997,,GOTY Edition
+Settlement,Brighton,,50.82253,-0.13716,,0.37763,,GOTY Edition
+Settlement,Freiburg im Breisgau,,47.99901,7.84210,,2.85945,,GOTY Edition
+Settlement,Helsinki,,60.16986,24.93838,,9.44393,,GOTY Edition
+Settlement,Bielefeld,,52.03023,8.53247,,3.06747,,World Update 6
+Settlement,Brunswick,,52.26888,10.52677,,3.66533,,World Update 6
+Settlement,Frankfurt am Main,,50.11092,8.68213,,3.01516,,World Update 6
+Settlement,Konstanz,,47.67795,9.17324,,3.23032,,World Update 6
+Settlement,Wuppertal,,51.25621,7.15076,,2.82600,,World Update 6
+Settlement,Graz,,47.07071,15.43950,,4.57106,,World Update 6
+Settlement,Vienna,,48.20818,16.37382,,4.89549,,World Update 6
+Settlement,Basel,,47.55960,7.58858,,2.77104,,World Update 6
+Settlement,Paris,,48.85661,2.35222,,1.34809,,World Update 4
+Settlement,Amsterdam,,52.36757,4.90414,,1.80257,,World Update 4
+Settlement,Cambridge,,52.20534,0.12182,,0.58984,,World Update 3
+Settlement,Oxford,,51.75202,-1.25773,,-0.08775,,World Update 3
+Settlement,Birmingham,,52.48624,-1.89040,,-0.21043,,World Update 3
+Settlement,London,,51.50735,-0.12776,,0.23943,,World Update 3
+Settlement,Bristol,,51.45451,-2.58791,,-0.44557,,World Update 3
+Settlement,Tokyo,,35.68040,139.76901,,-7.74730,,World Update 1
+Settlement,Sendai,,38.26820,140.86942,,-8.46697,,World Update 1
+Settlement,Takamatsu,,34.34254,134.04654,,-7.88370,,World Update 1
+Settlement,Tokushima,,34.07037,134.55495,,-7.81218,,World Update 1
+Settlement,Utsunomiya,,36.55507,139.88261,,-8.03998,,World Update 1
+Settlement,Yokohama,,35.44367,139.63797,,-7.68719,,World Update 1
+Settlement,Miami,,25.76168,-80.19179,,-6.87757,,
+Settlement,Abington,,40.11983,-75.12535,,-11.66063,,
+Settlement,Agua Caliente,,38.32408,-122.48804,,13.37816,,
+Settlement,Albuquerque,,35.08438,-106.65042,,8.07130,,
+Settlement,Amarillo,,35.22200,-101.83130,,5.58828,,
+Settlement,Anaheim,,33.83659,-117.91430,,11.55994,,
+Settlement,Ann Arbor,,42.28083,-83.74303,,-7.25969,,
+Settlement,Anniston,,33.65982,-85.83163,,-4.50157,,
+Settlement,Anthem,,33.86523,-112.13573,,10.10234,,
+Settlement,Antioch,,38.00492,-121.80579,,13.09188,,
+Settlement,Appleton,,44.26193,-88.41538,,-3.65172,,
+Settlement,Atlanta,,33.74900,-84.38799,,-5.29697,,
+Settlement,Auburn,,32.60986,-85.48078,,-4.45784,,
+Settlement,Augusta,,44.31062,-69.77949,,-15.35312,,
+Settlement,Austin,,30.26715,-97.74306,,3.27061,,
+Settlement,Bakersfield,,35.37329,-119.01871,,12.24538,,
+Settlement,Baltimore,,39.29039,-76.61219,,-11.13843,,
+Settlement,Baton Rouge,,30.45147,-91.18715,,-0.27560,,
+Settlement,Beaverton,,45.48888,-122.80138,,14.97827,,
+Settlement,Bernalillo,,35.30004,-106.55114,,8.14041,,
+Settlement,Birmingham,,33.51859,-86.81036,,-3.87005,,
+Settlement,Bismarck,,46.80833,-100.78374,,5.68412,,
+Settlement,Boston,,42.36008,-71.05888,,-14.07499,,
+Settlement,Boulder,,40.01498,-105.27055,,8.28623,,
+Settlement,Brandon,,27.93780,-82.28593,,-5.95415,,
+Settlement,Bridgeport,,41.17923,-73.18944,,-12.91582,,
+Settlement,Brockton,,42.08344,-71.01838,,-13.90117,,
+Settlement,Brownsville,,25.90175,-97.49748,,3.35113,,
+Settlement,Brunswick,,31.14995,-81.49149,,-6.87659,,
+Settlement,Calgary,,51.04473,-114.07188,,14.16562,,
+Settlement,Carbondale,,37.72727,-89.21675,,-2.27299,,
+Settlement,Carefree,,33.82226,-111.91821,,9.95038,,
+Settlement,Carson City,,39.16380,-119.76740,,12.96581,,
+Settlement,Castro Valley,,37.69550,-122.07387,,13.21386,,
+Settlement,Catalina Foothills,,32.29785,-110.91870,,9.25327,,
+Settlement,Champaign,,40.11642,-88.24339,,-3.00878,,
+Settlement,Cheyenne,,41.13998,-104.82024,,7.62452,,
+Settlement,Chicago,,41.87811,-87.62980,,-4.05340,,
+Settlement,Chico,,39.72849,-121.83748,,13.54041,,
+Settlement,Cincinnati,,39.10312,-84.51202,,-5.96290,,
+Settlement,Clermont,,28.54944,-81.77286,,-6.51964,,
+Settlement,Cleveland,,41.49932,-81.69436,,-8.44389,,
+Settlement,Colorado Springs,,38.83388,-104.82137,,7.65758,,
+Settlement,Columbia,,38.95171,-92.33408,,-0.20491,,
+Settlement,Columbia,,34.00071,-81.03481,,-6.96626,,
+Settlement,Columbus,,32.46098,-84.98771,,-5.12655,,
+Settlement,Columbus,,39.96117,-82.99879,,-7.17312,,
+Settlement,Concord,,37.97798,-122.03107,,13.23094,,
+Settlement,Concord,,43.20814,-71.53757,,-14.33022,,
+Settlement,Corpus Christi,,27.80058,-97.39638,,3.29994,,
+Settlement,Darwin,,-12.46344,130.84564,,2.37941,,
+Settlement,Davis,,38.54491,-121.74052,,13.26203,,
+Settlement,Dayton,,39.75895,-84.19160,,-6.16917,,
+Settlement,Daytona Beach,,29.21082,-81.02283,,-6.45226,,
+Settlement,Decatur,,34.60593,-86.98335,,-3.92334,,
+Settlement,Deltona,,28.90055,-81.26367,,-6.70299,,
+Settlement,Denver,,39.73923,-104.99025,,7.75129,,
+Settlement,Des Moines,,41.58683,-93.62496,,0.50054,,
+Settlement,Desert Hot Springs,,33.96112,-116.50168,,11.29245,,
+Settlement,Detroit,,42.33143,-83.04575,,-7.08440,,
+Settlement,Dothan,,31.22323,-85.39049,,-4.25899,,
+Settlement,Dover,,39.15817,-75.52437,,-11.63243,,
+Settlement,Downey,,33.94011,-118.13316,,11.66417,,
+Settlement,Drexel Heights,,32.14119,-111.02843,,9.70975,,
+Settlement,Durham,,35.99403,-78.89862,,-9.17521,,
+Settlement,Edison,,40.51871,-74.41209,,-12.39682,,
+Settlement,Edmonton,,53.54612,-113.49382,,14.11579,,
+Settlement,El Paso,,31.76188,-106.48502,,7.76672,,
+Settlement,Elk Grove,,38.40880,-121.37162,,13.23255,,
+Settlement,Everett,,47.97898,-122.20208,,15.51358,,
+Settlement,Fairfield,,38.24920,-122.04051,,13.39735,,
+Settlement,Fargo,,46.87719,-96.78980,,2.69839,,
+Settlement,Farmington,,44.64024,-93.14355,,0.19986,,
+Settlement,Flagler Beach,,29.47498,-81.12701,,-6.64822,,
+Settlement,Flagstaff,,35.19828,-111.65130,,10.04449,,
+Settlement,Fond du Lac,,43.77304,-88.44705,,-3.63615,,
+Settlement,Fort Lauderdale,,26.12244,-80.13731,,-6.66276,,
+Settlement,Fort Myers,,26.64063,-81.87231,,-6.22182,,
+Settlement,Fort Wayne,,41.07927,-85.13935,,-5.29436,,
+Settlement,Fort Worth,,32.75549,-97.33076,,3.29224,,
+Settlement,Foster City,,37.55855,-122.27108,,13.20658,,
+Settlement,Fremont,,37.54854,-121.98859,,13.05375,,
+Settlement,Fresno,,36.73780,-119.78712,,12.52878,,
+Settlement,Gainesville,,29.65163,-82.32483,,-6.08792,,
+Settlement,Gainesville,,34.29788,-83.82407,,-6.08233,,
+Settlement,Galveston,,29.30135,-94.79770,,1.54476,,
+Settlement,Glendale,,34.14251,-118.25507,,11.80561,,
+Settlement,Goose Creek,,32.98101,-80.03259,,-8.03011,,
+Settlement,Green Bay,,44.51332,-88.01330,,-3.73392,,
+Settlement,Greensboro,,36.07264,-79.79198,,-8.97171,,
+Settlement,Greenville,,34.85262,-82.39401,,-6.78062,,
+Settlement,Griffin,,33.24678,-84.26409,,-5.11882,,
+Settlement,Gulf Breeze,,30.35714,-87.16386,,-2.82755,,
+Settlement,Gulfport,,30.36742,-89.09282,,-1.50918,,
+Settlement,Hamilton,,43.25572,-79.87110,,-10.23912,,
+Settlement,Hanford,,36.32745,-119.64568,,12.40641,,
+Settlement,Harrisburg,,40.27319,-76.88670,,-11.39860,,
+Settlement,Hollister,,36.85246,-121.40160,,12.88474,,
+Settlement,Hollywood,,34.09281,-118.32866,,11.78852,,
+Settlement,Houston,,29.76043,-95.36980,,2.14860,,
+Settlement,Huntsville,,34.73037,-86.58611,,-3.98101,,
+Settlement,Immokalee,,26.41853,-81.41740,,-6.24868,,
+Settlement,Indianapolis,,39.76840,-86.15807,,-4.73638,,
+Settlement,Inglewood,,33.96168,-118.35313,,11.70650,,
+Settlement,Jackson,,32.29876,-90.18481,,-0.98245,,
+Settlement,Jacksonville,,30.33218,-81.65565,,-6.80563,,
+Settlement,Janesville,,42.68279,-89.01872,,-2.82516,,
+Settlement,Jefferson City,,38.57670,-92.17352,,-0.11306,,
+Settlement,Kankakee,,41.12003,-87.86115,,-4.23465,,
+Settlement,Kansas City,,39.09973,-94.57857,,1.28169,,
+Settlement,Key West,,24.55506,-81.77998,,-5.99041,,
+Settlement,Kingwood,,30.05003,-95.18448,,2.34943,,
+Settlement,Kokomo,,40.48643,-86.13361,,-4.68950,,
+Settlement,La Habra,,33.93186,-117.94614,,11.60170,,
+Settlement,LaGrange,,33.03622,-85.03224,,-4.21250,,
+Settlement,Lake City,,30.18968,-82.63929,,-6.17684,,
+Settlement,Lake Havasu City,,34.48390,-114.32246,,10.87521,,
+Settlement,Lakeland,,28.03946,-81.94981,,-6.72536,,
+Settlement,Laredo,,27.50356,-99.50755,,4.36030,,
+Settlement,Las Cruces,,32.31994,-106.76366,,7.79052,,
+Settlement,Las Vegas,,36.16994,-115.13983,,11.51247,,
+Settlement,Laurel,,31.69405,-89.13062,,-1.78194,,
+Settlement,Leesburg,,28.81082,-81.87786,,-6.42447,,
+Settlement,Lincoln,,40.81362,-96.70260,,2.78449,,
+Settlement,Little Rock,,34.74648,-92.28960,,0.05779,,
+Settlement,Lodi,,38.13415,-121.27222,,13.19898,,
+Settlement,London,,42.98492,-81.24528,,-8.90218,,
+Settlement,Long Beach,,33.77005,-118.19374,,11.66255,,
+Settlement,Longview,,32.50070,-94.74049,,1.52037,,
+Settlement,Los Angeles,,34.05223,-118.24368,,11.79869,,
+Settlement,Los Gatos,,37.23581,-121.96237,,12.93708,,
+Settlement,Los Lunas,,34.80617,-106.73336,,8.15765,,
+Settlement,Louisville,,38.25267,-85.75845,,-5.21810,,
+Settlement,Lowell,,42.63342,-71.31617,,-14.20670,,
+Settlement,Lubbock,,33.57786,-101.85516,,5.62713,,
+Settlement,Macon,,32.84069,-83.63240,,-5.75359,,
+Settlement,Madera,,36.96133,-120.06071,,12.66566,,
+Settlement,Madison,,43.07305,-89.40123,,-2.66492,,
+Settlement,Manteca,,37.79743,-121.21605,,13.07023,,
+Settlement,Marco Island,,25.93974,-81.70753,,-6.08154,,
+Settlement,Marietta,,33.95260,-84.54993,,-5.25390,,
+Settlement,Marion,,37.73061,-88.93313,,-2.75674,,
+Settlement,McAllen,,26.20341,-98.23001,,3.93478,,
+Settlement,McCandless,,40.58808,-80.03114,,-8.99854,,
+Settlement,Memphis,,35.14954,-90.04898,,-1.04505,,
+Settlement,Mesa,,33.41518,-111.83147,,9.78173,,
+Settlement,Michigan City,,41.70754,-86.89503,,-4.73806,,
+Settlement,Middletown,,40.39680,-74.09160,,-12.33019,,
+Settlement,Midland,,31.99734,-102.07791,,5.80639,,
+Settlement,Milwaukee,,43.03890,-87.90647,,-4.58285,,
+Settlement,Minneapolis,,44.97775,-93.26501,,0.07673,,
+Settlement,Mobile,,30.69537,-88.03989,,-2.38216,,
+Settlement,Modesto,,37.63910,-120.99688,,12.91235,,
+Settlement,Monroe,,32.50931,-92.11930,,0.23184,,
+Settlement,Montgomery,,32.37922,-86.30774,,-3.72813,,
+Settlement,Montreal,,45.50169,-73.56725,,-14.04363,,
+Settlement,Moreno Valley,,33.94247,-117.22968,,11.46628,,
+Settlement,Nashville,,36.16266,-86.78160,,-4.29899,,
+Settlement,New Orleans,,29.95107,-90.07153,,-1.14854,,
+Settlement,New Smyrna Beach,,29.02582,-80.92700,,-7.46559,,
+Settlement,New York,,40.71278,-74.00597,,-12.53858,,
+Settlement,Newark,,40.73566,-74.17236,,-12.51527,,
+Settlement,Niagara Falls,,43.09621,-79.03773,,-9.84795,,
+Settlement,Norfolk,,36.85077,-76.28587,,-10.77018,,
+Settlement,Norristown,,40.12150,-75.33990,,-11.74637,,
+Settlement,Ocala,,29.18720,-82.14009,,-5.85446,,
+Settlement,Oceanside,,33.19587,-117.37949,,11.38891,,
+Settlement,Okeechobee,,27.24393,-80.82978,,-7.08124,,
+Settlement,Oklahoma City,,35.46756,-97.51643,,3.36381,,
+Settlement,Omaha,,41.25654,-95.93450,,1.82213,,
+Settlement,Orange Park,,30.16607,-81.70648,,-6.83738,,
+Settlement,Orlando,,28.53834,-81.37923,,-6.54284,,
+Settlement,Oro Valley,,32.39091,-110.96649,,9.28907,,
+Settlement,Oshkosh,,44.02471,-88.54261,,-3.68063,,
+Settlement,Ottawa,,45.42153,-75.69719,,-13.03684,,
+Settlement,Oxnard,,34.19751,-119.17706,,12.01729,,
+Settlement,Pace,,30.59936,-87.16108,,-2.95922,,
+Settlement,Palatka,,29.64858,-81.63758,,-6.65719,,
+Settlement,Palm Bay,,28.03446,-80.58866,,-7.13301,,
+Settlement,Palm Beach,,26.70562,-80.03643,,-7.02348,,
+Settlement,Palm Springs,,33.83030,-116.54530,,11.27455,,
+Settlement,Palmdale,,34.57943,-118.11646,,11.84421,,
+Settlement,Palmetto Bay,,25.62177,-80.32478,,-6.78745,,
+Settlement,Panama City,,30.15881,-85.66020,,-4.25028,,
+Settlement,Peachtree City,,33.39685,-84.59634,,-5.23035,,
+Settlement,Pensacola,,30.42131,-87.21691,,-2.86754,,
+Settlement,Peoria,,33.58060,-112.23738,,10.12471,,
+Settlement,Perris,,33.78252,-117.22865,,11.45373,,
+Settlement,Philadelphia,,39.95258,-75.16522,,-11.93460,,
+Settlement,Phoenix,,33.44838,-112.07404,,10.12915,,
+Settlement,Pierre,,44.36679,-100.35375,,5.52074,,
+Settlement,Pittsburgh,,40.44062,-79.99589,,-9.59248,,
+Settlement,Poinciana,,28.15737,-81.47093,,-6.47400,,
+Settlement,Port Charlotte,,26.97617,-82.09064,,-5.95448,,
+Settlement,Port St. Lucie,,27.27305,-80.35822,,-6.94286,,
+Settlement,Porterville,,36.06523,-119.01677,,12.44499,,
+Settlement,Portland,,43.65910,-70.25682,,-14.83763,,
+Settlement,Portland,,45.50511,-122.67503,,14.98322,,
+Settlement,Prescott,,34.54002,-112.46851,,10.29294,,
+Settlement,Providence,,41.82399,-71.41283,,-14.02822,,
+Settlement,Quebec City,,46.81388,-71.20798,,-15.36345,,
+Settlement,Raleigh,,35.77959,-78.63818,,-9.33049,,
+Settlement,Redding,,40.58654,-122.39168,,13.86969,,
+Settlement,Reedley,,36.59634,-119.45040,,12.46942,,
+Settlement,Reno,,39.52963,-119.81380,,13.08326,,
+Settlement,Richmond,,37.93576,-122.34775,,13.27206,,
+Settlement,Richmond,,37.54073,-77.43605,,-10.24642,,
+Settlement,Riverdale,,33.57261,-84.41326,,-5.24671,,
+Settlement,Rock Island,,41.50948,-90.57875,,-1.78302,,
+Settlement,Roswell,,34.02324,-84.36156,,-5.20429,,
+Settlement,Sacramento,,38.58157,-121.49440,,13.26522,,
+Settlement,Salinas,,36.67774,-121.65550,,12.86854,,
+Settlement,Salt Lake City,,40.76078,-111.89104,,11.03199,,
+Settlement,San Antonio,,29.42412,-98.49363,,3.87233,,
+Settlement,San Bernardino,,34.10835,-117.28976,,11.58692,,
+Settlement,San Francisco,,37.77493,-122.41942,,13.25120,,
+Settlement,San Jose,,37.33821,-121.88633,,12.97933,,
+Settlement,San Tan Valley,,33.17730,-111.54683,,9.75206,,
+Settlement,Santa Ana,,33.74547,-117.86765,,11.52069,,
+Settlement,Santa Barbara,,34.42083,-119.69819,,12.02050,,
+Settlement,Santa Clarita,,34.39166,-118.54259,,11.81838,,
+Settlement,Santa Cruz,,36.97412,-122.03080,,13.01610,,
+Settlement,Santa Fe,,35.68697,-105.93780,,7.81708,,
+Settlement,Santa Monica,,34.01945,-118.49119,,11.74726,,
+Settlement,Sarasota,,27.33644,-82.53065,,-5.76524,,
+Settlement,Savannah,,32.08090,-81.09120,,-6.78470,,
+Settlement,Sea Island,,31.18357,-81.34982,,-6.82529,,
+Settlement,Sebring,,27.49559,-81.44091,,-6.39863,,
+Settlement,Selma,,36.57079,-119.61208,,12.46970,,
+Settlement,Sheboygan,,43.75083,-87.71453,,-4.31326,,
+Settlement,Shreveport,,32.52515,-93.75018,,0.89015,,
+Settlement,Simi Valley,,34.26945,-118.78148,,11.76970,,
+Settlement,South Bend,,41.67635,-86.25199,,-4.92636,,
+Settlement,Spanish Fort,,30.67147,-87.90189,,-2.82703,,
+Settlement,Spring Hill,,28.48317,-82.53699,,-5.90655,,
+Settlement,Springfield,,39.78172,-89.65015,,-2.30708,,
+Settlement,Springfield,,42.10148,-72.58981,,-13.68230,,
+Settlement,Springfield,,37.20896,-93.29230,,0.78264,,
+Settlement,St. Louis,,38.62700,-90.19940,,-1.58676,,
+Settlement,St. Marys,,30.74790,-81.57061,,-6.80580,,
+Settlement,St. Petersburg,,27.76760,-82.64029,,-5.76753,,
+Settlement,Stamford,,41.05343,-73.53873,,-12.99677,,
+Settlement,Statesboro,,32.44879,-81.78316,,-7.07000,,
+Settlement,Stockton,,37.95770,-121.29078,,13.10072,,
+Settlement,Summerville,,33.01851,-80.17565,,-7.56236,,
+Settlement,Syracuse,,43.04812,-76.14742,,-11.70802,,
+Settlement,Tacoma,,47.25288,-122.44429,,15.39661,,
+Settlement,Tallahassee,,30.43826,-84.28073,,-4.84675,,
+Settlement,Tampa,,27.95057,-82.45718,,-5.86252,,
+Settlement,Tarpon Springs,,28.14612,-82.75677,,-5.97699,,
+Settlement,Temecula,,33.49364,-117.14836,,11.43141,,
+Settlement,Tempe,,33.42551,-111.94000,,9.78065,,
+Settlement,The Woodlands,,30.16582,-95.46127,,2.19595,,
+Settlement,Titusville,,28.61222,-80.80756,,-7.11993,,
+Settlement,Toledo,,41.65281,-83.53786,,-7.06440,,
+Settlement,Toms River,,39.95374,-74.19794,,-12.41612,,
+Settlement,Topeka,,39.04734,-95.67516,,1.91815,,
+Settlement,Toronto,,43.65322,-79.38319,,-10.23497,,
+Settlement,Trenton,,40.22058,-74.75972,,-12.40582,,
+Settlement,Tucson,,32.22261,-110.97471,,9.21182,,
+Settlement,Tulsa,,36.15398,-95.99277,,1.86003,,
+Settlement,Ukiah,,39.15017,-123.20779,,13.74018,,
+Settlement,Valdosta,,30.83270,-83.27849,,-5.65612,,
+Settlement,Universal Studios Florida,,28.47897,-81.46851,,-6.52795,,
+Settlement,Vancouver,,49.28273,-123.12074,,16.07850,,
+Settlement,Venice,,27.09978,-82.45426,,-5.70582,,
+Settlement,Victoria,,48.42842,-123.36565,,15.84727,,
+Settlement,Visalia,,36.33023,-119.29206,,12.43024,,
+Settlement,Walt Disney World Resort,,28.38523,-81.56387,,-6.52499,,
+Settlement,Wichita,,37.68718,-97.33006,,3.34025,,
+Settlement,Willingboro,,40.02885,-74.89165,,-12.47710,,
+Settlement,Wilmington,,39.74466,-75.54839,,-11.72413,,
+Settlement,Winnipeg,,49.89514,-97.13837,,2.95169,,
+Settlement,Winston-Salem,,36.09986,-80.24422,,-8.07348,,
+Settlement,Winter Haven,,28.02224,-81.73286,,-6.60522,,
+Settlement,Winter Park,,28.60000,-81.33923,,-6.56540,,
+Settlement,Worcester,,42.26259,-71.80229,,-14.16113,,
+Settlement,Yuba City,,39.14045,-121.61691,,13.36967,,
+Settlement,Yucaipa,,34.03363,-117.04308,,11.63009,,
+Settlement,Yuma,,32.69265,-114.62769,,10.57280,,
+Settlement,Zephyrhills,,28.23362,-82.18120,,-5.76788,,
+Settlement,Aachen,,50.77534,6.08389,,2.42187,,
+Settlement,Aix-en-Provence,,43.52974,5.44743,,2.26091,,
+Settlement,Alicante,,38.34600,-0.49069,,0.82522,,
+Settlement,Augsburg,,48.37054,10.89779,,3.50111,,
+Settlement,Barcelona,,41.38506,2.17340,,1.57505,,
+Settlement,Berlin,,52.52001,13.40495,,4.53574,,
+Settlement,Metropolitan City of Bologna,,44.50051,11.30478,,3.57222,,
+Settlement,Bordeaux,,44.83779,-0.57918,,0.68896,,
+Settlement,Bremen,,53.07930,8.80169,,3.01012,,
+Settlement,Brunswick,,52.26929,10.53020,,3.66491,,
+Settlement,Brussels,,50.85034,4.35171,,1.86238,,
+Settlement,Canberra,,-35.30750,149.12442,,12.60432,,
+Settlement,Province of Catania,,37.50788,15.08308,,3.77649,,
+Settlement,Copenhagen,,55.67610,12.56834,,4.48606,,
+Settlement,Cordoba,,37.88818,-4.77938,,-0.28812,,
+Settlement,Darwin City,,-12.46344,130.84564,,2.37941,,
+Settlement,Dresden,,51.05041,13.73726,,4.36818,,
+Settlement,Duisburg,,51.43441,6.76233,,2.47286,,
+Settlement,Metropolitan City of Florence,,43.76792,11.25238,,3.50897,,
+Settlement,Gold Coast,,-28.01424,153.40068,,11.32045,,
+Settlement,Halle (Saale),,51.49698,11.96880,,3.91827,,
+Settlement,Hamburg,,53.55109,9.99368,,3.42539,,
+Settlement,Hobart,,-42.88214,147.32719,,15.47504,,
+Settlement,Karlsruhe,,49.00689,8.40365,,3.06507,,
+Settlement,Kiel,,54.32329,10.12277,,3.78892,,
+Settlement,Leipzig,,51.33969,12.37307,,4.18980,,
+Settlement,Lille,,50.62925,3.05726,,1.55806,,
+Settlement,Madrid,,40.41677,-3.70379,,0.02278,,
+Settlement,Magdeburg,,52.12053,11.62762,,3.92075,,
+Settlement,Mannheim,,49.48746,8.46604,,3.04586,,
+Settlement,Marbella,,36.51007,-4.88245,,-0.22970,,
+Settlement,Marseille,,43.29648,5.36978,,2.27114,,
+Settlement,Metropolitan City of Milan,,45.45863,9.18187,,3.19695,,
+Settlement,Monchengladbach,,51.18046,6.44280,,2.49671,,
+Settlement,Montpellier,,43.61077,3.87672,,1.81240,,
+Settlement,Munich,,48.13512,11.58198,,3.73934,,
+Settlement,Munster,,51.96067,7.62613,,2.81209,,
+Settlement,Murcia,,37.99224,-1.13065,,0.66786,,
+Settlement,Metropolitan City of Naples,,40.90197,14.33264,,3.86311,,
+Settlement,Newcastle,,-32.92827,151.78168,,12.35480,,
+Settlement,Nuremberg,,49.45210,11.07666,,3.82353,,
+Settlement,Province of Palermo,,38.11569,13.36149,,3.54225,,
+Settlement,Pamplona,,42.81253,-1.64577,,0.47712,,
+Settlement,Rennes,,48.11727,-1.67779,,0.24793,,
+Settlement,Rome,,41.90270,12.49623,,3.61331,,
+Settlement,Rouen,,49.44323,1.09997,,1.05890,,
+Settlement,Seville,,37.38909,-5.98446,,-0.47897,,
+Settlement,Southampton,,50.90970,-1.40435,,-0.01720,,
+Settlement,Strasbourg,,48.57341,7.75211,,2.78560,,
+Settlement,Valencia,,39.46991,-0.37629,,0.82661,,
+Settlement,Metropolitan City of Venice,,45.44147,12.31527,,3.83133,,
+Settlement,Province of Verona,,45.44185,11.07353,,3.63040,,
+Settlement,Vigo,,42.24060,-8.72073,,-1.56776,,
+Settlement,Wollongong,,-34.42781,150.89307,,12.69516,,
+Settlement,Zurich,,47.37689,8.54169,,3.00961,,
+Settlement,New Haven,,41.30827,-72.92789,,-13.55065,,
+Settlement,Portsmouth,,50.81977,-1.08798,,0.05384,,
+Settlement,Oberhausen,,51.49633,6.86378,,2.48179,,
+Airport,Aspen Pitkin County Airport,KASE,39.21963,-106.86433,,8.48847,,Standard
+Airport,Bugalaga Airstrip,WX53,-3.62339,136.59659,,2.28377,,Standard
+Airport,Chagual Airport,SPGL,-7.79757,-77.65128,,-3.40650,,Standard
+Airport,Altiport Courchevel,LFLJ,45.39725,6.63479,,2.50126,,Standard
+Airport,Donegal Airport,EIDL,55.03818,-8.34258,,-3.39746,,Standard
+Airport,Kampala-Entebbe Airport,HUEN,0.04359,32.44180,,1.59124,,Standard
+Airport,Madeira Airport,LPMA,32.69580,-16.77587,,-4.21134,,Standard
+Airport,Gibraltar Airport,LXGB,36.15386,-5.34641,,-0.54068,,Standard
+Airport,Innsbruck Airport,LOWI,47.25765,11.35131,,3.72505,,Standard
+Airport,Los Angeles International Airport,KLAX,33.94159,-118.40853,,11.71367,,Standard
+Airport,Tenzing Hillary Airport,VNLK,27.68729,86.73220,,0.20948,,Standard
+Airport,Nanwalek Airport-Keb,KEB,59.35153,-151.92555,,14.66462,,Standard
+Airport,John F. Kennedy International Airport,KJFK,40.64131,-73.77814,,-12.86019,,Standard
+Airport,Orlando International Airport,KMCO,28.43116,-81.30808,,-6.50695,,Standard
+Airport,Paris-Charles De Gaulle,LFPG,49.00969,2.54792,,1.35888,,Standard
+Airport,Paro International Airport,VQPR,27.40519,89.42103,,-0.11383,,Standard
+Airport,Queenstown Airport,NZQN,-45.02097,168.73993,,24.79547,,Standard
+Airport,Mariscal Sucre International Airport,SEQM,-0.12423,-78.36057,,-4.21957,,Standard
+Airport,RIOgaleão - Tom Jobim International Airport,SBGL,-22.80527,-43.25663,,-22.79484,,Standard
+Airport,Juancho E Yrausquin Airport,TNCS,17.64461,-63.22073,,-14.35259,,Standard
+Airport,Gustaf III Airport,TFFJ,17.90419,-62.84505,,-14.56632,,Standard
+Airport,Seattle-Tacoma International Airport,KSEA,47.45025,-122.30882,,15.44188,,Standard
+Airport,Sedona Airport,KSEZ,34.84971,-111.79009,,10.08960,,Standard
+Airport,Sirena Airstrip,MRSN,8.47921,-83.59043,,-2.39377,,Standard
+Airport,Stewart Airport (ZST),CZST,55.93656,-129.98145,,18.29138,,Standard
+Airport,Sydney Airport,YSSY,-33.93992,151.17528,,12.93214,,Standard
+Airport,Telluride Regional Airport,KTEX,37.95456,-107.90197,,9.05901,,Standard
+Airport,Haneda Airport,RJTT,35.54939,139.77985,,-7.71537,,Standard
+Airport,Aeropuerto de Tegucigalpa-Toncontin,MHTG,14.06072,-87.21925,,-0.80603,,Standard
+Airport,Billy Bishop Toronto City Airport,CYTZ,43.62848,-79.39596,,-10.22359,,Standard
+Airport,Amsterdam Airport Schiphol,EHAM,52.31054,4.76827,,1.80608,,Deluxe
+Airport,Cairo International Airport,HECA,30.11283,31.39979,,4.67936,,Deluxe
+Airport,Cape Town International Airport,FACT,-33.97146,18.60209,,-25.59261,,Deluxe
+Airport,O'Hare International Airport,KORD,41.97416,-87.90732,,-3.84613,,Deluxe
+Airport,Madrid-Barajas Adolfo Suárez Airport,LEMD,40.49833,-3.56760,,0.01110,,Deluxe
+Airport,Denver International Airport,KDEN,39.85610,-104.67374,,7.70226,,Premium
+Airport,Dubai International Airport,OMDB,25.25317,55.36567,,2.19405,,Premium
+Airport,Frankfurt Airport,EDDF,50.03793,8.56215,,3.03655,,Premium
+Airport,Heathrow Airport,EGLL,51.47002,-0.45430,,0.23832,,Premium
+Airport,San Francisco International Airport,KSFO,37.62131,-122.37895,,13.22009,,Premium
+Location,San Francisco Airport (USA),,37.61172,-122.38339,,13.21854,,
+Location,Miami International Airport (USA),,25.79119,-80.25842,,-6.86901,,
+Location,Chicago O'Hare Airport (USA),,41.96581,-87.93105,,-3.83330,,
+Location,Zurich� Airport (Switzerland),,47.44594,8.55873,,3.01194,,
+Location,Seattle tacoma Int'l Airport (USA),,47.44427,-122.31120,,15.44082,,
+Location,Punta Cana Airport (Dominican Republic),,18.57062,-68.34505,,-12.36504,,
+Location,New York John F. Kennedy International Airport (USA),,40.64308,-73.77950,,-12.85991,,
+Location,Orlando Int'l Airport (USA),,28.43920,-81.31101,,-6.51013,,
+Location,Los Angeles Airport (USA),,33.94629,-118.40936,,11.71457,,
+Location,London Gatwick Airport (UK),,51.15881,-0.17308,,0.19389,,
+Location,Alice Springs Airport (Austrailia),,-23.80082,133.89128,,4.32728,,
+Location,Baltimore Washington Int'l Airport (USA),,39.18374,-76.67056,,-11.15165,,
+Location,Aspen Pitkin County Airport (USA),,39.21808,-106.86400,,8.48784,,
+Location,Szombathelyi Airfield (Hungary),,47.27272,16.63305,,4.77343,,
+Location,Chiquitos Airport (Bolivia),,-18.41738,-61.77760,,-13.77330,,
+Location,Donegal Airport (Ireland),,55.03725,-8.34236,,-3.39748,,
+Location,National Park Corcovado Airfield la sirena (Costa Rica),,8.48022,-83.58951,,-2.39381,,
+Location,London Heathrow Airport (UK),,51.47050,-0.45009,,0.23823,,
+Location,Peoria Mount hawley Airport (USA),,40.80388,-89.61709,,-2.42159,,
+Location,Rio de Janeiro Galeao Airport (Brazil),,-22.81624,-43.26306,,-22.79322,,
+Location,Queenstown Airport (New Zealand),,-45.02154,168.74205,,24.79635,,
+Location,Southampton Airport (UK),,50.94508,-1.35996,,-0.00509,,
+Location,Madeira airport (Portugal),,32.70535,-16.76536,,-4.21142,,
+Location,Lisbon Humberto Delgado Airport (Portugal),,38.77459,-9.13892,,-1.70824,,
+Location,Chambery Airport (France),,45.64775,5.87936,,2.29534,,
+Location,Nice Airport (France),,43.62981,7.17948,,2.69103,,
+Location,Renton Municipal Airport (USA),,47.49226,-122.21406,,15.44905,,
+Location,Marrakesh Menara Airport (Morocco),,31.60402,-8.02620,,-1.46045,,
+Location,Farm Whitwater East Landing Strip (Namibia),,-24.63105,15.94980,,-14.37520,,
+Location,Orange County John Wayne Airport (USA),,33.67779,-117.86469,,11.49646,,
+Location,Rockland Knox County Regional Airport,,44.06239,-69.11729,,-15.14375,,
+Location,Innsbruck Airport (Austria),,47.26030,11.34525,,3.72563,,
+Location,Lukla Tenzing Hillary Airport (Nepal),,27.68660,86.73132,,0.20947,,
+Location,Kadhdhoo (Maldives),,1.86549,73.52280,,-3.37175,,
+Location,Saba Juancho Airport (Netherlands),,17.64715,-63.21996,,-14.35315,,
+Location,Oshkosh Airport (USA),,43.96656,-88.55664,,-3.59790,,
+Location,Edwards Air Base (USA),,34.96059,-117.81013,,11.78088,,
+Location,Hill Air Force Base Utah (USA),,41.13089,-111.97775,,10.87774,,
+Location,Florence Preetola Airport (Italy),,43.81511,11.21328,,3.50211,,
+Location,Telluride Regional Airport (USA),,37.95387,-107.90206,,9.05872,,
+Location,Phoenix (USA),,33.61192,-112.26942,,10.12704,,
+Location,Sion Airport (Switzerland),,46.20010,7.26918,,2.78452,,
+Location,Courchevel Airport (France),,45.39651,6.63331,,2.50128,,
+Location,Airport Remy de Haenen (Saint-Barthelemy),,17.90454,-62.84704,,-14.56575,,
+Location,Tumlingatar Airport (Nepal),,27.31463,87.19450,,0.07001,,
+Location,Grand-Canyon (USA),,36.21679,-112.37863,,10.59041,,
+Location,Miami Beach (USA),,25.65979,-80.14794,,-6.83466,,
+Location,Page (USA),,36.92862,-111.43954,,10.32520,,
+Location,Dunedin (USA),,28.01440,-82.78737,,-6.02132,,
+Location,San Francisco Bay salt ponds (USA),,37.50572,-122.06020,,13.19795,,
+Location,Cape Coral (USA),,26.57304,-82.03796,,-5.70124,,
+Location,San Francisco (USA),,37.82464,-122.40862,,13.25960,,
+Location,Golden Meadow (USA),,29.35640,-90.28812,,-0.81754,,
+Location,New Orleans (USA),,29.94976,-90.08045,,-1.14257,,
+Location,Boulder (USA),,39.97429,-105.27773,,8.06077,,
+Location,SDCCU Stadium - San Diego (USA),,32.78565,-117.12392,,11.24790,,
+Location,Aspen (USA),,39.18666,-106.82168,,8.48592,,
+Location,Bonita Springs (USA),,26.44117,-81.81478,,-6.28273,,
+Location,White Sands Missile Range (USA),,32.40287,-106.43530,,7.84167,,
+Location,Seattle (USA),,47.54545,-122.33796,,15.45868,,
+Location,Lake Norman (USA),,35.57258,-80.90363,,-8.08716,,
+Location,Chicago (USA),,41.89133,-87.58146,,-4.08149,,
+Location,Indianpolis Motor Speedway (USA),,39.80574,-86.23993,,-4.72300,,
+Location,Manhatten (USA),,40.75758,-73.97546,,-12.80707,,
+Location,Boston (USA),,42.35142,-71.04440,,-14.06822,,
+Location,Owens Valley (USA),,36.67797,-118.07668,,12.24472,,
+Location,Pike National Forest (USA),,38.98208,-105.39330,,8.01889,,
+Location,Stone Moutain Atlanta (USA),,33.81409,-84.14634,,-5.41634,,
+Location,Houston (USA),,29.75879,-95.35263,,2.14361,,
+Location,New York (USA),,40.71445,-74.04838,,-12.53068,,
+Location,Big Sur coastline (USA),,36.21157,-121.69556,,12.74004,,
+Location,Mount Baker - Snoqualmie National Forest (USA),,47.88982,-121.37512,,15.33230,,
+Location,Discovery Bay (USA),,48.00045,-122.78061,,15.51966,,
+Location,Lake Las Vegas (USA),,36.09012,-114.95765,,11.04929,,
+Location,Seattle Harbor (USA),,47.58805,-122.39594,,15.46838,,
+Location,Barringer Crater Arizona (USA),,35.03740,-111.02113,,10.19827,,
+Location,Sandpoint (USA),,48.24023,-116.64378,,14.10434,,
+Location,Baltimore (USA),,39.23728,-76.57243,,-11.12352,,
+Location,Thurston Peak (USA),,41.10311,-111.85645,,10.89985,,
+Location,Lake Powell (USA),,37.06955,-111.23487,,10.44573,,
+Location,Oakland (USA),,37.83835,-122.22698,,13.24244,,
+Location,Arches National Park (USA),,38.78821,-109.67727,,9.90387,,
+Location,Orlando (USA),,28.53917,-81.38171,,-6.54294,,
+Location,Disneyworld Florida (USA),,28.37598,-81.55126,,-6.52263,,
+Location,Mundaring Weir (Austraila),,-31.96973,116.19192,,-1.26759,,
+Location,Newcastle (Australia),,-32.91912,151.80087,,12.34762,,
+Location,Brisbane (Australia),,-27.45951,153.06073,,11.16678,,
+Location,Ayers Rock (Australia),,-25.34851,131.03874,,3.97489,,
+Location,Sydney (Australia,,-33.86816,151.23508,,12.87267,,
+Location,Madrid (spain),,40.40736,-3.54892,,0.01607,,
+Location,Alicante (spain),,38.35406,-0.40570,,0.81963,,
+Location,Castilla (Spain),,40.47744,-3.67791,,0.01385,,
+Location,Cantabria (Spain),,43.44821,-3.95703,,-0.08489,,
+Location,Anaga Mountains - Tenerife (Spain),,28.57250,-16.30603,,-4.34847,,
+Location,Barcelona (Spain),,41.43849,2.17613,,1.56672,,
+Location,Luanco Gozon (spain),,43.62281,-5.85079,,-0.75142,,
+Location,Sant Antoni de Portmany Ibiza (Spain),,38.99523,1.29699,,1.26255,,
+Location,Vigo (spain),,42.20364,-8.74272,,-1.55549,,
+Location,Venice (Italy),,45.43548,12.32670,,3.83118,,
+Location,Lake Como (Italy),,46.16018,9.38151,,3.23363,,
+Location,Vesuvio (italy),,40.73065,14.37691,,3.86270,,
+Location,Florence (Italy),,43.77007,11.25867,,3.50957,,
+Location,Rom (Italy),,41.88717,12.47656,,3.60966,,
+Location,Neapel (Italy),,40.84342,14.25423,,3.85319,,
+Location,Fuorigrotta (Italy),,40.77699,14.17089,,3.84592,,
+Location,Ajaccio Corse (France),,41.90645,8.71689,,2.89907,,
+Location,Garonne (France),,44.75674,-0.52741,,0.70360,,
+Location,Lake Geneva and Mont Blanc (Switzerland/France),,46.19654,6.17808,,2.55798,,
+Location,Marseille (France),,43.28094,5.32827,,2.27574,,
+Location,Saint Etienne-de-Baigorry (France),,43.18967,-1.36262,,0.46557,,
+Location,Ostheim (France),,48.15616,7.36624,,2.79568,,
+Location,Bozel (France),,45.44339,6.66202,,2.50388,,
+Location,Chalet Refuge du clot (France),,42.86095,-0.14812,,0.84398,,
+Location,Bordeaux (France),,44.85297,-0.40038,,0.72386,,
+Location,The Chateau de Chambord - Loir-et-Cher (France),,47.61761,1.51982,,1.14647,,
+Location,Paris (France),,48.84330,2.31251,,1.34167,,
+Location,Plage de l'Ostriconi - Corsica (France),,42.64083,9.03827,,3.06221,,
+Location,Rouen (France),,49.43514,1.08879,,1.06177,,
+Location,Cabane Vauban (France),,48.73199,-1.53636,,0.14854,,
+Location,Endoume (France),,43.28269,5.35355,,2.27332,,
+Location,Aix-les-Bains (France),,45.65729,5.86862,,2.29623,,
+Location,Notre-Dame de la Garde (France),,43.28474,5.36912,,2.27180,,
+Location,Mont Blanc (France),,45.82735,6.84437,,2.56457,,
+Location,Argeles-Gazost (France),,43.00621,-0.05193,,0.65251,,
+Location,Strasbourg (France),,48.60142,7.75209,,2.78947,,
+Location,Millau (France),,44.10682,3.11057,,1.86203,,
+Location,Mirepeix (France),,43.19308,-0.26723,,0.72746,,
+Location,Biarritz (France),,43.50050,-1.57013,,0.47630,,
+Location,Figari corsica (France),,41.46303,9.02141,,3.04571,,
+Location,Arcachon (France),,44.69635,-1.16176,,0.46265,,
+Location,Maritime Alps (Italy and France),,44.27346,6.98882,,2.44975,,
+Location,London (UK),,51.48029,-0.00909,,0.23415,,
+Location,Lake District (UK),,54.42657,-3.41127,,-1.21044,,
+Location,Newcastle (UK),,55.02599,-1.76323,,-0.41415,,
+Location,Leeds - Waterloo Lake (UK),,53.83705,-1.49475,,-0.36395,,
+Location,Silverstone Circuit (UK),,52.07644,-1.02915,,-0.30220,,
+Location,Southampton (UK),,50.89768,-1.43892,,-0.02604,,
+Location,Sao Paulo (Brazil),,-23.39393,-46.41562,,-21.70061,,
+Location,Rio de Janeiro (Brazil),,-22.93629,-43.19261,,-22.74323,,
+Location,Manaus (Brazil),,-3.19867,-60.77838,,-15.93177,,
+Location,Toronto (Canada,,43.61880,-79.36782,,-10.22452,,
+Location,Berlin (Germany),,52.52349,13.39891,,4.53570,,
+Location,Rathen - Elbe (Germany),,50.94213,14.09553,,4.57978,,
+Location,Sion (Swizterland),,46.22919,7.37193,,2.76870,,
+Location,Zurich (Switzerland),,47.37533,8.53677,,3.00984,,
+Location,Copenhagen (Danmark),,55.67432,12.55727,,4.48450,,
+Location,Brussels (Belgium),,50.84940,4.35218,,1.86259,,
+Location,Coimbra District (Portugal),,40.43222,-8.80718,,-1.49689,,
+Location,Porto (Portugal),,41.15616,-8.68719,,-1.50252,,
+Location,Wewak Island (Papua New Guinea),,-3.54739,143.70480,,3.93264,,
+Location,Tokyo (Japan),,35.68769,139.78181,,-7.74835,,
+Location,Horyu-ji temple (Japan),,34.61497,135.73448,,-7.90058,,
+Location,Tokyo Skytree (Japan),,35.70958,139.81941,,-7.75121,,
+Location,Soul (South Korea),,37.59560,126.79203,,-8.75131,,
+Location,Pucon (Chile),,-39.28785,-71.90095,,5.43132,,
+Location,Nef River (Chile),,-47.13582,-72.85844,,11.00038,,
+Location,Grey Lake (Chile),,-51.04927,-73.22670,,13.54477,,
+Location,Naukluft Park (Namibia),,-25.40827,15.61982,,-15.28164,,
+Location,Fish River Canyon (Namibia),,-27.58202,17.59459,,-18.10817,,
+Location,Namib Naukluft Park (Namibia),,-25.67402,15.52223,,-15.59299,,
+Location,Lake Tekapo (New Zealand),,-43.80856,170.53523,,24.12268,,
+Location,Tongariro National ParkIsland (New Zealand),,-39.37871,175.54443,,21.66610,,
+Location,Colorado River Delta (Mexico),,31.89010,-114.75275,,10.47181,,
+Location,Marismas Nacionales Nayarit (Mexico),,21.92378,-105.57460,,6.61682,,
+Location,Monterrey (Mexico),,25.65049,-100.46867,,4.79527,,
+Location,Hout Bay (South Africa),,-34.05853,18.33423,,-25.65129,,
+Location,Cape Town (South Africa),,-33.86470,18.50080,,-25.53113,,
+Location,Marangu (Tanzania),,-3.68757,37.60583,,-0.40446,,
+Location,Fogo (Cape Verde),,14.95082,-24.33076,,-9.50130,,
+Location,Goteborg (Sweden),,57.72328,11.94457,,4.35262,,
+Location,Dubai (UAE),,25.09989,55.17775,,2.14648,,
+Location,Pyramids of Giza (Egypt),,29.97916,31.12791,,4.65472,,
+Location,Strait of Gibraltar (Morocco),,35.87011,-5.52701,,-0.51800,,
+Location,Warsaw Palace of Culture (Poland),,52.23531,21.00902,,6.66980,,
+Location,Over Quito Airport (Ecuador),,-0.11583,-78.37029,,-4.21753,,
+Location,Tondimina Niger Delta (Mali),,15.21651,-3.90003,,-1.67862,,
+Location,Colca Canyon (Peru),,-15.60128,-71.83688,,-6.25460,,
+Location,Red Sea near Sawakin (Sudan),,18.92311,37.41535,,3.55126,,
+Location,North of Chalten (Argentina),,-49.22617,-72.94880,,12.16555,,
+Location,Burj Khalifa Dubai (UAE),,25.19858,55.27371,,2.17692,,
+Location,Hong Kong (China),,22.30119,114.15070,,-3.25452,,
+Location,Avachinsky - Kamchatka (Russia),,53.23679,158.84880,,-7.21088,,
+Location,Bucharest (Romania),,44.42850,26.10495,,6.12620,,
+Location,Jabal Ram (Jordan),,29.61872,35.45543,,4.65219,,
+Location,Oman Mountains (Oman),,23.00907,59.23241,,1.39579,,
+Location,Ahmedabad (India),,23.07929,72.53486,,0.56205,,
+Location,Richat Structure (Mauritania),,21.13108,-11.39377,,-3.30675,,
+Location,African Savanna,,-22.34400,28.82671,,-13.81322,,
+Location,Sint Maarten,,18.02042,-63.12135,,-14.20241,,
+Location,Istanbul (Turkey),,41.14312,29.19784,,5.94488,,
+Location,San Diego (USA),,32.70922,-117.15850,,11.24862,,
+Location,Benedita (Portugal),,39.37292,-8.97845,,-1.43124,,
+Location,Cavarzere (Italy),,45.14621,12.10976,,3.86408,,
+Location,Dongxingpucun (China),,40.73072,115.88956,,-7.31540,,
+Location,Olympic National Park (USA),,47.81533,-123.76250,,15.72240,,
+Location,Macau (china),,22.18780,113.54686,,-3.04741,,
+Location,Sad Hill (Spain),,41.99117,-3.41150,,-0.00785,,
+Location,Union Island (Saint Vincent and the Grenadines),,12.60370,-61.40765,,-15.12384,,
+Location,Villa O'Higgins (Chile),,-48.45238,-72.59528,,11.54647,,
+Location,Skadur (Pakistan),,35.35338,75.55042,,2.92286,,
+Location,Irun (Spain),,43.31770,-1.79903,,0.51407,,
+Location,Salzburg (Austria),,47.79651,13.04798,,4.12910,,
+Location,Sorde-l'Abbaye (France),,43.52420,-1.11077,,0.48193,,
+Location,Souraide (France),,43.31692,-1.44896,,0.47893,,
+Location,Sunsites (USA),,31.99703,-109.79009,,9.02739,,
+Location,Pueblo Viejo mine (Dominican Republic),,18.94655,-70.18494,,-11.57895,,
+Location,Lake Almanor (USA),,40.27973,-121.13043,,13.66184,,
+Location,Colta (Peru),,-15.17794,-73.31091,,-4.71230,,
+Location,Southeast of Islamabad (Pakistan),,33.49553,72.85861,,2.75161,,
+Location,Sheikh Zayed Mosque Abu Dhabi (UAE),,24.41110,54.47508,,2.15215,,
+Location,Ohio Stadium Columbus (USA),,39.99927,-83.01866,,-7.13837,,
+Location,Dune 45 (Namibia),,-24.71809,15.43373,,-14.48327,,
+Location,Trout Lake (USA),,45.99934,-121.51010,,14.91029,,
+Location,over Mount Pavlof (USA),,55.41233,-161.90497,,10.53645,,
+Location,Gold Coast (Australia),,-28.04947,153.43767,,11.34341,,
+Location,Lexington - Nebraska (USA),,40.74433,-99.79636,,4.82196,,
+Location,Androy region (Madagascar),,-25.51061,45.31185,,-24.58714,,
+Location,Marignac (France),,42.98960,0.69963,,1.09000,,
+Location,Perth (Australia),,-31.95090,115.86264,,-1.97576,,
+Location,Taj Mahal (India),,27.17651,78.04433,,0.83895,,
+Location,Athens (Greece),,37.97313,23.73053,,4.88652,,
+Location,Ibiza (Spain),,38.93643,1.43786,,1.29641,,
+Location,Ilford - London (UK),,51.56453,0.08190,,0.54834,,
+Location,Santa Rosa (USA),,38.53564,-122.82233,,13.42802,,
+Location,Nelson Lakes National Park (New Zealand),,-42.09793,172.57878,,23.14738,,
+Location,North Wash - Utah (USA),,37.95696,-110.50023,,10.13671,,
+Location,Neuschwanstein Castle (Germany),,47.55744,10.74936,,3.50125,,
+Location,French Riviera (France),,43.44838,6.99302,,2.47607,,
+Location,Cordoba (Spain),,37.90869,-4.71839,,-0.27747,,
+Location,Torres del Paine (Chile),,-50.97371,-73.02157,,14.01916,,
+Location,South of Marrakesh (Morocco),,31.59808,-7.91698,,-1.21525,,
+Location,Apurimac River (Peru),,-13.15532,-73.41459,,-5.23827,,
+Location,Hidden Lake - Montana (USA),,48.68835,-113.74017,,13.17324,,
+Location,Kalgoorlie (Australia),,-30.74975,121.48439,,0.89160,,
+Location,Sha Tin (Hong Kong),,22.40798,114.22897,,-3.25970,,
+Location,Tellirude Peak (USA),,37.93907,-107.74574,,8.99057,,
+Location,Elim Dune (Namibia),,-24.45524,15.81299,,-14.17350,,
+Location,Bankok (Thailand),,13.74089,100.49254,,-0.78079,,
+Location,Pangulasian Island (Philippines),,11.11122,119.33469,,-1.73885,,
+Location,Moscow (Russia),,55.75008,37.61674,,11.67561,,
+Location,Fish Lake Valley - Nevada (USA),,37.38699,-117.89047,,12.17062,,
+Location,Sulak Canyon (Russia),,42.77691,46.73653,,7.28598,,
+Location,Los Angeles (USA),,34.05451,-118.26730,,11.79464,,
+Location,Atlanta (USA),,33.76537,-84.37948,,-5.30443,,
+Location,Mont Saint-Michel (France),,48.63700,-1.50287,,0.16149,,
+Location,Marina bay hotel (Singapur),,1.28674,103.85884,,0.07326,,
+Location,Catania (Italy),,37.51994,15.10773,,3.77624,,
+Location,Santa Clarita (USA),,34.43894,-118.55322,,11.82845,,
+Location,Lake Lucerne (Switzerland),,47.03981,8.33019,,3.04326,,
+Location,Gribraltar (UK),,36.14955,-5.33673,,-0.54301,,
+Location,Las Vegas (USA),,36.09082,-115.17514,,11.50565,,
+Location,Swartberg mountains (South Africa),,-33.22130,22.07317,,-26.61008,,
+Location,Lake Abraham (Canada),,52.25405,-116.40601,,15.03991,,
+Location,Lake Garda (Italy),,45.62070,10.24218,,3.40181,,
+Location,Florida Keys (USA),,24.86466,-80.75645,,-6.54808,,
+Location,Reichenbach�(Switzerland),,46.61478,7.67888,,2.76808,,
+Location,Caraguatatuba (Brazil),,-23.65961,-45.42451,,-22.02134,,
+Location,Mount Taranaki (New Zealand),,-39.27236,173.99728,,21.35905,,
+Location,Mount Fuji (Japan),,35.34908,138.72658,,-7.81333,,
+Location,Wallberg (Germany),,47.65808,11.78211,,3.75107,,
+Location,Torsa River (Bhutan and India),,26.89814,89.37806,,-0.14676,,
+Location,Kennedy space center (USA),,28.61544,-80.64663,,-7.14182,,
+Location,Mont Cenis (France),,45.28550,6.99648,,2.45887,,
+Location,Grand Teton National Park (USA),,43.73478,-110.75250,,11.06639,,
+Location,Andes - San Juan Province (Argentina),,-32.53081,-69.81728,,-0.61975,,
+Location,Dresden (Germany),,51.05084,13.70895,,4.37482,,
+Location,Mera Peak (Nepal),,27.69002,86.81723,,0.20601,,
+Location,Trisul (India),,30.32835,79.50679,,1.34324,,
+Location,Canas (Costa Rica),,10.35640,-85.02582,,-1.43513,,
+Location,Parlermo (Italy),,38.17872,13.27835,,3.55182,,
+Location,Shanghai (China),,31.23553,121.50434,,-6.32410,,
+Location,Larson Bay (USA),,57.54670,-153.95520,,13.72921,,
+Location,Montreal (Canada),,45.56180,-73.57232,,-14.05607,,
+Location,Potash Evaporation Ponds (USA),,38.48750,-109.68300,,9.81921,,
+Location,Long Island (Bahamas),,23.18419,-75.31859,,-9.25814,,
+Location,Vancouver (Canada),,49.29153,-123.09915,,16.08105,,
+Location,Naarden (Netherlands),,52.28976,5.18305,,2.19822,,
+Location,Milford Sound (New Zealand),,-44.66703,167.91182,,24.19692,,
+Location,London City Airport (UK),,51.50402,0.08987,,0.57034,,
+Location,Cerne Giant (UK),,50.81242,-2.47477,,-0.37034,,
+Location,El hierro (Spain),,27.75456,-18.02440,,-5.07145,,
+Location,Tavira (Portugal),,37.11694,-7.63548,,-1.07348,,
+Location,Hagia Sophia and Blue Mosque (Turkey),,41.00830,28.97545,,5.75060,,
+Location,Palma de Mallorca Airport (Spain),,39.56960,2.75700,,1.55457,,
+Location,Washington DC (USA),,38.88453,-77.05472,,-10.67278,,
+Location,La Paz (Bolivia),,-16.52720,-68.13784,,-8.49340,,
+Location,Ambergris Cay - Turks and Caicos Islands,,21.29395,-71.65462,,-11.20416,,
+Location,Paro Airport (Buthan),,27.40488,89.42190,,-0.11385,,
+Location,Cristo Redentor (Brazil),,-22.95174,-43.21010,,-22.74344,,
+Airport,Flughafen Kassel,EDVK,51.41641,9.38619,,3.36008,,GOTY Edition
+Airport,Memmingen Airport,EDJA,47.98938,10.23243,,3.44639,,GOTY Edition
+Airport,Leipzig/Halle Airport,EDDP,51.41887,12.22087,,4.19480,,GOTY Edition
+Airport,Lugano Airport,LSZA,46.00442,8.91011,,2.88912,,GOTY Edition
+Airport,Zurich Airport,LSZH,47.46124,8.55350,,3.01276,,GOTY Edition
+Airport,Luzern-Beromunster Airport,LSZO,47.19100,8.20539,,3.05213,,GOTY Edition
+Airport,Patrick Air Force Base,KCOF,28.23946,-80.60751,,-7.14499,,GOTY Edition
+Airport,MCAS Miramar,KNKX,32.87535,-117.13732,,11.25285,,GOTY Edition
+Building,Broch of Mousa,,59.99527,-1.18206,,-1.02854,,
+Building,AmericanAirlines Arena,,25.78140,-80.18697,,-6.88916,,
+Building,The Pentagon,,38.87186,-77.05627,,-10.66344,,
+Building,Lincoln Memorial,,38.88927,-77.05018,,-10.67804,,
+Building,Statue of Liberty National Monument,,40.68925,-74.04450,,-12.51516,,
+Building,Governors Island,,40.68945,-74.01679,,-12.52053,,
+Building,Brooklyn Bridge,,40.70609,-73.99686,,-12.81513,,
+Building,Empire State Building,,40.74844,-73.98566,,-12.80688,,
+Building,Chrysler Headquarters and Technology Center,,42.65451,-83.23396,,-7.31260,,
+Building,AT&T Stadium,,32.74728,-97.09450,,3.22385,,
+Building,Space Needle,,47.62051,-122.34927,,15.47279,,
+Landform,Fly Geyser,,40.85940,-119.33190,,13.33043,,
+Building,Chichen-Itza,,20.68474,-88.56782,,-1.24156,,
+Building,Arts Tower,,8.97623,-79.52251,,-4.95687,,
+Building,F&F Tower,,8.98296,-79.51846,,-4.96018,,
+Building,Megapolis Tower 1,,8.97700,-79.51800,,-4.95968,,
+Building,Ph Bahia Pacifica,,8.97413,-79.50742,,-4.96564,,
+Building,JW Marriott Panama,,8.97512,-79.50694,,-4.96607,,
+Mountain,The Point,,8.97102,-79.51806,,-4.95886,,
+Building,El Penon de Guatape,,6.22361,-75.17833,,-7.04338,,
+Building,Estadio Monumental Antonio Vespucio Liberti,,-34.54531,-58.44978,,-9.48955,,
+Building,Christ the Redeemer,,-22.95192,-43.21049,,-22.74350,,
+Building,Catedral Metropolitana de Sao Sebastiao do Rio de Janeiro,,-22.91068,-43.18078,,-22.74794,,
+Building,Newgrange,,53.69471,-6.47549,,-2.26785,,
+Building,The O2,,51.50304,0.00315,,0.57005,,
+Building,Big Ben,,51.50073,-0.12463,,0.23839,,
+Building,Houses of Parliament,,51.50050,-0.12420,,0.23835,,
+Building,The Shard,,51.50450,-0.08650,,0.23932,,
+Building,Tower Bridge,,51.50546,-0.07536,,0.23961,,
+Building,Atomium,,50.89494,4.34155,,1.85443,,
+Building,Mont Saint-Michel,,48.63602,-1.51111,,0.16086,,
+Building,Chateau de Saumur,,47.25562,-0.07192,,0.51176,,
+Building,Chateau Royal d'Amboise,,47.41336,0.98702,,0.83984,,
+Building,Chateau de Chambord,,47.61613,1.51722,,1.14634,,
+Building,Chateau de Sully-sur-Loire,,47.76761,2.37532,,1.40759,,
+Building,Palace of Versailles,,48.80487,2.12036,,1.31239,,
+Building,Place du Trocadero et du 11 Novembre,,48.86293,2.28782,,1.33331,,
+Building,Eiffel Tower,,48.85837,2.29448,,1.33550,,
+Building,Les Invalides,,48.85653,2.31271,,1.33969,,
+Building,Grand Palais,,48.86611,2.31245,,1.33816,,
+Building,Louvre Museum,,48.86061,2.33764,,1.34443,,
+Building,Luxembourg Palace,,48.84827,2.33729,,1.34607,,
+Building,Sacre-Coeur,,48.88670,2.34310,,1.34208,,
+Building,Pont du Gard,,43.94757,4.53496,,2.03712,,
+Building,Acropolis of Athens,,37.97153,23.72575,,4.88574,,
+Building,Neuschwanstein Castle,,47.55758,10.74980,,3.50129,,
+Building,Fortress Hohensalzburg,,47.79495,13.04766,,4.12926,,
+Building,Cologne Cathedral,,50.94128,6.95828,,2.60932,,
+Building,Amsterdam Centraal railway station,,52.37906,4.90036,,1.80535,,
+Building,Tropical Islands,,52.03893,13.74862,,4.43771,,
+Building,Palace of Culture and Science,,52.23184,21.00599,,6.67039,,
+Building,Museum of King Jan III's Palace at Wilanow,,52.16518,21.09051,,6.66038,,
+Building,Main Square,,50.06190,19.93676,,5.68287,,
+Building,Hungarian Parliament Building,,47.50712,19.04567,,5.41055,,
+Building,Istanbul Adalet Sarayi,,41.06926,28.98026,,5.76626,,
+Building,Dolmabahce Palace,,41.03917,29.00046,,5.95164,,
+Building,The Blue Mosque,,41.00541,28.97681,,5.74970,,
+Building,Hagia Sophia,,41.00858,28.98018,,5.75019,,
+Building,Diamond Tower,,21.41889,39.82639,,3.59238,,
+Building,FNB Stadium,,-26.23476,27.98265,,-19.34252,,
+Building,Bahir Dar Stadium,,11.57421,37.36135,,2.83263,,
+Building,Fasil Ghebbi,,12.60801,37.46964,,2.94424,,
+Building,Axum Tsion St. Mary,,14.13043,38.71960,,3.00297,,
+Building,Masjid al-Haram,,21.42287,39.82573,,3.59249,,
+Building,Al Masjid an Nabawi,,24.46720,39.61115,,3.89911,,
+Building,Borg El Arab Stadium,,30.99958,29.72939,,4.68872,,
+Building,Medium El Wasta,,29.38837,31.15750,,4.61196,,
+Building,Bent Pyramid,,29.79045,31.20932,,4.64248,,
+Building,Pyramid of Djoser,,29.87132,31.21654,,4.64880,,
+Building,Giza Necropolis,,29.97730,31.13250,,4.65470,,
+Building,Great Sphinx of Giza,,29.97527,31.13757,,4.65469,,
+Building,Supreme Council of Universities,,30.02688,31.20875,,4.67655,,
+Building,Al-Rifa'i Mosque,,30.03271,31.25700,,4.67578,,
+Building,The Egyptian Museum,,30.04758,31.23361,,4.67757,,
+Building,Casino Barriere Le Pacha,,30.05208,31.22774,,4.67807,,
+Building,Cairo Tower,,30.04592,31.22429,,4.67766,,
+Building,Temple Mount,,31.77812,35.23599,,4.89890,,
+Building,Al Hamra Tower,,29.37905,47.99329,,3.81586,,
+Building,Great Ziggurat of Ur,,30.96276,46.10318,,4.22212,,
+Building,The Ziggurat of Dur-Kurigalzu,,33.35353,44.20213,,4.79739,,
+Building,Persian Gulf Shopping Center,,29.75655,52.43398,,3.39381,,
+Building,Tomb of Cyrus the Great,,30.19395,53.16718,,3.37661,,
+Building,Cathedral of Christ the Saviour,,55.74464,37.60550,,11.67139,,
+Building,Moscow State University,,55.70393,37.52867,,11.64231,,
+Building,Savior on the Spilled Blood,,59.94010,30.32890,,11.53559,,
+Building,Ericsson Globe,,59.29357,18.08355,,7.14876,,
+Building,Kronborg,,56.03901,12.62115,,4.46740,,
+Building,Westerkerk,,52.37453,4.88397,,1.80562,,
+Building,Faisal Mosque,,33.72990,73.03828,,2.73772,,
+Building,Baha'i Lotus Temple,,28.55349,77.25883,,1.19815,,
+Building,Dhamekh Stupa,,25.38090,83.02451,,0.18419,,
+Building,Konark Sun Temple,,19.88760,86.09454,,-0.56481,,
+Building,Ruwanweli Maha Seya,,8.35001,80.39644,,-1.89025,,
+Building,Sigiriya - Boulder Garden,,7.95411,80.75470,,-1.93994,,
+Building,Old Bagan,,21.17173,94.85854,,-0.79645,,
+Building,Wat Phra Chetuphon (Wat Pho - Temple of the Reclining Buddha),,13.74657,100.49331,,-0.78114,,
+Building,Angkor Wat,,13.41247,103.86699,,-0.82162,,
+Building,Petronas Twin Towers,,3.15789,101.71198,,-0.15579,,
+Building,Mid Valley Megamall,,3.11741,101.67805,,-0.15320,,
+Building,Esplanade - Theatres on the Bay Singapore,,1.28979,103.85582,,0.07333,,
+Building,Singapore Flyer,,1.28930,103.86314,,0.07312,,
+Building,ArtScience Museum,,1.28627,103.85927,,0.07325,,
+Building,Marina Bay Sands Garden Park,,1.28533,103.85936,,0.07325,,
+Building,Indonesia Convention Exhibition (ICE) BSD City,,-6.29923,106.63697,,0.53112,,
+Mountain,Uluru (Ayers Rock),,-25.34443,131.03688,,3.97328,,
+Building,Sydney Opera House,,-33.85678,151.21530,,12.87103,,
+Lighthouse,Cape Brett Lighthouse,,-35.17534,174.33261,,19.00443,,
+Building,Keangnam Landmark Tower 72,,21.01670,105.78358,,-1.68254,,
+Building,Wynn Macau,,22.18793,113.54731,,-3.04739,,
+Building,MGM Macau,,22.18603,113.54780,,-3.04697,,
+Building,Praca de Ferreira do Amaral,,22.18981,113.54340,,-3.04814,,
+Building,Bank of China Building,,22.18986,113.54298,,-3.04819,,
+Building,Torre Lago Panoramico,,22.18867,113.54234,,-3.04802,,
+Building,Grand Lisboa hotel,,22.19090,113.54337,,-3.04835,,
+Building,Grand Promenade,,22.28512,114.22443,,-3.24835,,
+Building,Highcliff,,22.26491,114.18411,,-3.24948,,
+Building,Hopewell Centre,,22.27464,114.17163,,-3.25116,,
+Building,Central Plaza,,22.27991,114.17373,,-3.25141,,
+Building,IFC mall,,22.28588,114.15813,,-3.25294,,
+Building,Hong Kong Convention and Exhibition Centre,,22.28322,114.17310,,-3.25171,,
+Building,International Commerce Centre,,22.30320,114.16024,,-3.25406,,
+Building,The Arch,,22.30307,114.16331,,-3.25386,,
+Building,National Palace Museum,,25.10236,121.54849,,-4.82085,,
+Building,Grand Hotel Taipei,,25.07891,121.52652,,-4.81719,,
+Building,Chiang Kai-Shek Memorial Hall NTUT,,25.04352,121.53580,,-4.80748,,
+Building,Lupu Bridge,,31.19017,121.48068,,-6.31491,,
+Building,Oriental Pearl TV Tower,,31.23969,121.49976,,-6.32554,,
+Building,Bank of China,,31.23849,121.50334,,-6.32494,,
+Building,IFC Mall,,31.23686,121.50186,,-6.32465,,
+Building,Jin Mao Tower,,31.23525,121.50575,,-6.32391,,
+Building,Shanghai Tower,,31.23352,121.50562,,-6.32348,,
+Building,Shanghai World Financial Center,,31.23456,121.50744,,-6.32360,,
+Building,Zifeng Tower,,32.06247,118.77805,,-5.93355,,
+Building,Busan Tower,,35.10122,129.03232,,-8.22715,,
+Building,Rungrado May Day Stadium,,39.04955,125.77532,,-9.01798,,
+Building,Horyuji,,34.61153,135.73907,,-7.89954,,
+Building,Yokohama Landmark Tower,,35.45495,139.63139,,-7.69028,,
+Building,Yoyogi National Gymnasium,,35.66765,139.70015,,-7.74763,,
+Building,Tokyo Metropolitan Government Building,,35.68963,139.69211,,-7.75389,,
+Building,Shinjuku Nomura Building,,35.69299,139.69536,,-7.75460,,
+Building,Sompo Japan Nipponkoa Insurance Inc.,,35.69272,139.69611,,-7.75448,,
+Building,Cocoon Tower,,35.69161,139.69676,,-7.75415,,
+Building,Tokyo Skytree,,35.71006,139.81070,,-7.75186,,
+Building,National Memorial Cemetery of the Pacific,,21.31277,-157.84625,,9.50887,,
+Building,Brighton Palace Pier,,50.81686,-0.13674,,0.37686,,
+Building,Vrelo Bune,,43.25685,17.90337,,4.54255,,
+Building,Potala Palace,,29.65549,91.11858,,-0.15793,,
+Building,Summer Palace,,39.99998,116.27546,,-7.31867,,
+Building,National Stadium,,39.99294,116.39651,,-7.35198,,
+Building,The Palace Museum,,39.91634,116.39716,,-7.33831,,
+Building,National Centre for the Performing Arts,,39.90480,116.38967,,-7.33449,,
+Building,Temple of Heaven,,39.88218,116.40661,,-7.33421,,
+Building,Beijing Railway Station,,39.90498,116.42722,,-7.34323,,
+Building,The China World Trade Center,,39.90951,116.45818,,-7.35138,,
+Building,China Zun,,39.91266,116.46371,,-7.35337,,
+Building,CCTV Headquarters,,39.91528,116.46423,,-7.35407,,
+Building,Sri Harmandir Sahib,,31.61998,74.87649,,2.09841,,
+Building,Taj Mahal,,27.17514,78.04214,,0.83849,,
+Building,National Diet Building,,35.67594,139.74486,,-7.74748,,
+Building,Arundel Castle,,50.85629,-0.55390,,0.28257,,
+Airport,Hachijojima Airport,RJTH,33.11531,139.78587,,-6.95323,,
+Airport,Kushiro Airport,RJCK,43.04487,144.19598,,-9.05184,,
+Airport,Nagasaki Airport,RJFU,32.91364,129.91849,,-7.56717,,
+Airport,Miyako Shimojishima Airport,ROMY,24.82747,125.14741,,-5.09617,,
+Airport,Kerama Airport,ROKR,26.16906,127.29366,,-5.55735,,
+Airport,Suwanosejima Airport,RJX8,29.60734,129.70081,,-6.57618,,
+Settlement,Sendai,,38.26820,140.86942,,-8.46697,,
+Settlement,Takamatsu,,34.34254,134.04654,,-7.88370,,
+Settlement,Tokushima,,34.07037,134.55495,,-7.81218,,
+Settlement,Tokyo,,35.68040,139.76901,,-7.74730,,
+Settlement,Utsunomiya,,36.55507,139.88261,,-8.03998,,
+Settlement,Yokohama,,35.44367,139.63797,,-7.68719,,
+Building,Ikitsuki Bridge,,33.35272,129.43869,,-7.68929,,
+Building,RJFU Bridge,,32.91587,129.92998,,-7.56815,,
+Building,Hashima Island,,32.62763,129.73853,,-7.47399,,
+Building,Chikugo River Lift bridge,,33.21487,130.36203,,-7.66557,,
+Building,Kokonoe Yume Otsurihasi,,33.17278,131.22556,,-7.64470,,
+Building,Kanmon Bridge,,33.96073,130.96054,,-7.89745,,
+Building,Itsukushima Shrine,,34.29599,132.31982,,-7.97184,,
+Building,Tatara Bridge,,34.25978,133.06419,,-7.91638,,
+Building,Shimotsuisetoo Bridge,,34.43080,133.80612,,-7.98099,,
+Building,Kitabisansetoo Bridge,,34.37881,133.82047,,-7.96626,,
+Building,Hitsuishijima Bridge,,34.40957,133.80713,,-7.97492,,
+Building,Himeji Castle,,34.83945,134.69391,,-8.04320,,
+Building,Akashi-Kaikyo Bridge,,34.61747,135.02167,,-7.91359,,
+Building,Kobe Port Tower,,34.68263,135.18671,,-7.93515,,
+Building,Horyu-ji,,34.61407,135.73569,,-7.90031,,
+Building,Yokohama Bay Bridge,,35.45398,139.67355,,-7.69072,,
+Building,Tokyo Gate Bridge,,35.61045,139.82661,,-7.72849,,
+Building,Rainbow Bridge,,35.63656,139.76314,,-7.73690,,
+Building,Mode Gakuen Cocoon Tower,,35.69180,139.69740,,-7.75416,,
+Building,Torii Gate,,34.29731,132.31813,,-7.97224,,
+Airport,Hartsfield-Jackson Atlanta International Airport,KATL,33.64073,-84.42770,,-5.26014,,
+Airport,Dallas/Fort Worth International Airport,KDFW,32.89981,-97.04034,,3.12622,,
+Airport,New York Stewart International Airport,KSWF,41.49840,-74.10086,,-12.59760,,
+Airport,Friday Harbor Airport,KFHR,48.52483,-123.02618,,15.86376,,
+Building,Kennedy Space Center Visitor Complex,,28.52330,-80.68183,,-7.14464,,
+Building,Space Center Houston,,29.55185,-95.09829,,2.16692,,
+Building,Crazy Horse Memorial,,43.83662,-103.62341,,7.44641,,
+Building,Pilgrim Monument,,42.05222,-70.18864,,-14.33571,,
+Building,Fort Jefferson,,24.62871,-82.87318,,-5.34666,,
+Building,Washington Monument,,38.88948,-77.03528,,-10.68482,,
+Building,United States Capitol,,38.88994,-77.00905,,-10.69683,,
+Building,The White House,,38.89767,-77.03653,,-10.69004,,
+Building,Wright Brothers National Memorial,,36.01732,-75.66921,,-11.16691,,
+Building,Mount Rushmore National Memorial,,43.87910,-103.45907,,7.37956,,
+Building,Biltmore Estate,,35.54057,-82.55232,,-6.82386,,
+Building,Devils Tower,,44.58865,-104.69855,,8.07608,,
+Building,New River Gorge Bridge,,38.06903,-81.08266,,-7.62358,,
+Building,United States National Arboretum,,38.91213,-76.96577,,-10.83140,,
+Building,Bixby Creek Bridge,,36.37149,-121.90176,,12.77593,,
+Building,Chesapeake Bay Bridge-Tunnel,,37.04210,-76.06859,,-10.50181,,
+Building,Sunshine Skyway Bridge,,27.62071,-82.65584,,-5.77188,,
+Building,Mackinac Bridge,,45.81738,-84.72777,,-7.00978,,
+Building,Navajo Bridge,,36.81715,-111.63026,,10.35517,,
+Building,Astoria-Megler Bridge,,46.21577,-123.86221,,15.28464,,
+Building,U.S. Grant Bridge,,38.72792,-82.99733,,-7.13711,,
+Building,Lowry Avenue Bridge,,45.01309,-93.27454,,0.42519,,
+Building,Lewis and Clark Bridge,,46.10458,-122.96207,,15.05587,,
+Building,International Bridge,,46.50530,-84.36254,,-7.27603,,
+Building,Fort Knox,,37.91610,-85.95625,,-4.81525,,
+Mountain,Monument Rocks National Natural Landmark,,38.79367,-100.76317,,5.38061,,
+Building,Coronado Heights Castle,,38.61213,-97.70298,,3.41702,,
+Building,Ellis County Historic Courthouse,,32.38548,-96.84788,,2.70416,,
+Mountain,Monument Valley,,36.99803,-110.09846,,9.84237,,
+Mountain,Yosemite - El Capitan,,37.73393,-119.63767,,12.71946,,
+Building,Cliff Palace,,37.16691,-108.47321,,9.23811,,
+Mountain,Shiprock,,36.78555,-108.68703,,9.22547,,
+Mountain,Haystack Rock,,45.88414,-123.96862,,15.29351,,
+Mountain,Yosemite - Half Dome,,37.74592,-119.53320,,12.71174,,
+Building,Dworshak Dam & Reservoir,,46.51910,-116.30063,,13.75738,,
+Building,Hoover Dam,,36.01606,-114.73773,,11.07730,,
+Building,Oroville Dam,,39.53803,-121.48326,,13.47035,,
+Lighthouse,Alcatraz Lighthouse,,37.82623,-122.42216,,13.26132,,
+Building,Fort McHenry National Monument and Historic Shrine,,39.26330,-76.57990,,-11.12830,,
+Building,Rainbow International Bridge,,43.09021,-79.06764,,-9.85877,,
+Building,Glen Canyon Dam,,36.93720,-111.48367,,10.33976,,
+Building,Las Vegas Strip (night),,36.11471,-115.17285,,11.50630,,
+Building,Confederation Bridge,,46.20018,-63.76524,,-17.20331,,
+Building,Pearl Harbor National Memorial,,21.36760,-157.93886,,9.51250,,
+Building,Mauna Kea Observatory,,19.82304,-155.46945,,9.48275,,
+Building,National Radio Astronomy Observatory,,19.80170,-155.45593,,9.48122,,
+Building,Oil Rigs (exact location unverified),,27.52301,-87.42020,,-2.61004,,
+POI,Airplane Boneyard,,32.19238,-110.87527,,9.21766,,
+Mountain,Chimney Rock,,41.70365,-103.34827,,7.19720,,
+Airport,Liverpool John Lennon Airport,EGGP,53.33586,-2.85505,,-0.63531,,
+Airport,Manchester/Barton,EGCB,53.47144,-2.38976,,-0.69577,,
+Airport,Out Skerries Airstrip,GB-OUK,60.42517,-0.75113,,-0.75698,,
+Airport,Land's End Airport,EGHC,50.10213,-5.66783,,-1.30355,,
+Airport,Barra Airport,EGPR,57.02542,-7.44940,,-3.34126,,
+Settlement,London,,51.50735,-0.12776,,0.23943,,
+Settlement,Birmingham,,52.48624,-1.89040,,-0.21043,,
+Settlement,Oxford,,51.75202,-1.25773,,-0.08775,,
+Settlement,Cambridge,,52.20534,0.12182,,0.58984,,
+Settlement,Bristol,,51.45451,-2.58791,,-0.44557,,
+Building,Stonehenge,,51.17888,-1.82622,,-0.00129,,
+Building,Eden Project,,50.36013,-4.74472,,-1.00421,,
+Building,Salisbury Cathedral,,51.06612,-1.79755,,0.02722,,
+Lighthouse,Spinnaker Tower,,50.79557,-1.10852,,0.04545,,
+Mountain,White Cliffs of Dover,,51.13447,1.35730,,0.96607,,
+Building,Canterbury Cathedral,,51.27980,1.08280,,0.98036,,
+Building,Maritime Greenwich World Heritage Site,,51.48157,-0.00413,,0.23443,,
+Building,London Eye,,51.50330,-0.11955,,0.23884,,
+Building,Buckingham Palace,,51.50137,-0.14189,,0.23838,,
+Building,Stamford Bridge,,51.48166,-0.19096,,0.23576,,
+Building,Windsor Castle,,51.48389,-0.60440,,0.23828,,
+Building,Blenheim Palace,,51.84137,-1.36097,,-0.10691,,
+Building,Hampton Court Palace,,51.40361,-0.33776,,0.23545,,
+Building,Warwick Castle,,52.27967,-1.58523,,-0.17481,,
+Building,Principality Stadium,,51.47821,-3.18263,,-0.81303,,
+Building,Snowdonia National Park,,53.09322,-3.80170,,-0.92667,,
+Building,Pontcysyllte Aqueduct,,52.97042,-3.08779,,-0.85635,,
+Building,One Blackfriars,,51.50777,-0.10477,,0.23974,,
+Building,BT Tower,,51.52146,-0.13890,,0.24146,,
+Building,St George Wharf Tower,,51.48562,-0.12602,,0.23594,,
+Building,Southbank Tower,,51.50761,-0.10737,,0.23969,,
+Building,20 Fenchurch St / Sky Garden,,51.51146,-0.08351,,0.24067,,
+Building,The Leadenhall Building,,51.51386,-0.08231,,0.24115,,
+Building,HSBC / Canada Square,,51.50534,-0.01752,,0.24011,,
+Building,London Tower 42,,51.51537,-0.08428,,0.24141,,
+Building,25 Canada Square / City Bank,,51.50400,-0.01777,,0.23980,,
+Building,22 Bishopsgate,,51.51445,-0.08309,,0.24125,,
+Building,The Landmark Pinnacle,,51.50216,-0.02514,,0.23931,,
+Building,Heron Tower,,51.51625,-0.08094,,0.24163,,
+Building,One Park Drive,,51.50230,-0.01506,,0.23941,,
+Building,The Scalpel,,51.51324,-0.08114,,0.24105,,
+Building,The Madison,,51.49996,-0.01243,,0.23887,,
+Building,100 Bishopsgate,,51.51589,-0.08162,,0.24155,,
+Building,AYKON London One,,51.48403,-0.12474,,0.23568,,
+Building,30 St Mary Axe (The Gherkin),,51.51449,-0.08031,,0.24130,,
+Building,Strata SE1,,51.49298,-0.09939,,0.23715,,
+Building,Palace of Holyroodhouse,,55.95271,-3.17227,,-1.31664,,
+Building,St James's Palace,,51.50459,-0.13783,,0.23890,,
+Building,Palace of Westminster,,51.49948,-0.12481,,0.23818,,
+Building,Glamis Castle,,56.62020,-3.00172,,-1.48801,,
+Building,Archbishop's Palace Maidstone,,51.27096,0.52063,,0.58985,,
+Building,Wolvesey Castle,,51.05908,-1.31022,,-0.11431,,
+Building,Floors Castle,,55.60483,-2.45986,,-0.97917,,
+Building,Balmoral Castle,,57.03967,-3.22924,,-1.71290,,
+Building,Hillsborough Castle,,54.46412,-6.09287,,-2.41491,,
+Building,Dublin Castle,,53.34289,-6.26743,,-2.24061,,
+Building,Mount Stuart House,,55.79166,-5.01919,,-2.11386,,
+Building,Blair Castle,,56.76698,-3.84559,,-1.64416,,
+Building,Rock of Cashel,,52.52008,-7.89045,,-2.47047,,
+Building,Stirling Castle,,56.12291,-3.94556,,-1.32825,,
+Building,Blarney Castle,,51.92909,-8.57088,,-2.77768,,
+Building,Eilean Donan Castle,,57.27390,-5.51616,,-2.49802,,
+Building,Edinburgh Castle,,55.94859,-3.19991,,-1.32718,,
+Building,Caernarfon Castle,,53.13914,-4.27693,,-1.46306,,
+Building,Durham Cathedral,,54.77323,-1.57639,,-0.49666,,
+Building,Fountains Abbey,,54.10951,-1.58186,,-0.37432,,
+Building,Lincoln Cathedral,,53.23430,-0.53602,,0.07488,,
+Building,St. Paul's Cathedral,,51.51384,-0.09835,,0.24091,,
+Building,Westminster Abbey,,51.49950,-0.12823,,0.23817,,
+Building,York Minster,,53.96233,-1.08192,,-0.23558,,
+Building,Angel of the North,,54.91412,-1.58949,,-0.52654,,
+Lighthouse,Blackpool Tower,,53.81588,-3.05529,,-1.00836,,
+Building,British Airways i360,,50.82145,-0.15016,,0.37464,,
+Building,Glenfinnan Viaduct,,56.87622,-5.43176,,-2.40542,,
+Building,Humber Bridge,,53.70484,-0.44985,,0.02569,,
+Building,Jodrell Bank Observatory,,53.23611,-2.30655,,-0.70137,,
+Building,The Kelpies,,56.01073,-3.75932,,-1.34328,,
+Building,Royal Botanic Garden,,55.96525,-3.20923,,-1.32926,,
+Building,Royal Liver Building,,53.40581,-2.99586,,-0.65356,,
+Building,The Samson & Goliath cranes,,54.60495,-5.90533,,-2.06414,,
+Building,Titanic Belfast,,54.60818,-5.90982,,-2.06613,,
+Building,Tower of London,,51.50811,-0.07595,,0.24012,,
+Building,Wales Millennium Centre,,51.46484,-3.16318,,-0.81487,,
+Building,The National Wallace Monument,,56.13877,-3.91789,,-1.34466,,
+Building,All England Club,,51.39645,-0.22526,,0.22801,,
+Building,Anfield,,53.43083,-2.96083,,-0.66761,,
+Building,Emirates Stadium,,51.55489,-0.10844,,0.24787,,
+Building,Goodison Park,,53.43879,-2.96632,,-0.67113,,
+Building,Old Trafford Cricket Ground,,53.45643,-2.28680,,-0.69790,,
+Building,Saint James Park,,51.57712,-0.03786,,0.25582,,
+Building,Twickenham Stadium,,51.45596,-0.34151,,0.23643,,
+Building,Villa Park,,52.50911,-1.88478,,-0.21922,,
+Building,Wembley Stadium,,51.55603,-0.27962,,0.24060,,
+Building,Southend Pier,,51.51520,0.72168,,0.57626,,
+Building,Millennium Bridge,,51.50953,-0.09854,,0.24013,,
+Building,Blackfriars Railway Bridge,,51.50964,-0.10438,,0.24008,,
+Building,Southwark Bridge,,51.50893,-0.09417,,0.24007,,
+Building,Cannon Street Railway Bridge,,51.50843,-0.09183,,0.24000,,
+Building,Vauxhall Bridge,,51.48754,-0.12711,,0.23625,,
+Building,Grosvenor Railway Bridge,,51.48486,-0.14742,,0.23592,,
+Building,One Canada Square,,51.50495,-0.01950,,0.24000,,
+Building,Waterloo Bridge,,51.50858,-0.11692,,0.23975,,
+Building,Hungerford Bridge and Golden Jubilee Bridges,,51.50614,-0.12005,,0.23931,,
+Building,Lambeth Bridge,,51.49454,-0.12317,,0.23739,,
+Building,Chelsea Bridge,,51.48454,-0.15003,,0.23589,,
+Building,Albert Bridge,,51.48209,-0.16667,,0.23564,,
+Building,Battersea Bridge,,51.48107,-0.17255,,0.23555,,
+Building,Battersea Railway Bridge,,51.47302,-0.17911,,0.23459,,
+Building,Wandsworth Bridge,,51.46519,-0.18801,,0.23377,,
+Building,Clifton Suspension Bridge,,51.45491,-2.62786,,-0.44457,,
+Building,Forth Bridge,,56.00065,-3.38844,,-1.49009,,
+Building,Forth Road Bridge,,56.00139,-3.40427,,-1.48372,,
+Building,The Queensferry Crossing,,55.99826,-3.41650,,-1.41061,,
+Building,Rose Fitzgerald Kennedy Bridge,,52.35647,-6.99396,,-1.99820,,
+Building,Transporter Bridge,,54.58449,-1.22794,,-0.43697,,
+Building,Tyne Bridge,,54.96799,-1.60617,,-0.54297,,
+Building,Westminster Bridge,,51.50088,-0.12195,,0.23843,,
+Airport,Altiport Megeve,LFHM,45.82023,6.65108,,2.53307,,
+Airport,Nice Cote d'Azur Airport,FLMN,43.65977,7.21482,,2.69015,,
+Airport,Rotterdam The Hague Airport,EHRD,51.95551,4.43988,,1.83543,,
+Settlement,Paris,,48.85661,2.35222,,1.34809,,
+Settlement,Amsterdam,,52.36757,4.90414,,1.80257,,
+Building,Afsluitdijk,,53.03132,5.22666,,2.21618,,
+Building,Abbey of Saint-Savin,,46.56474,0.86583,,0.92421,,
+Building,Cathedrale Notre-Dame d'Amiens,,49.89463,2.30205,,1.28077,,
+Building,La Basilique Notre Dame de Fourviere,,45.76229,4.82263,,2.06114,,
+Building,Shrine of Our Lady of La Salette,,44.85863,5.97880,,2.35167,,
+Building,National Basilica of the Sacred Heart in Koekelberg,,50.86709,4.31708,,1.85245,,
+Building,Bourges Cathedral,,47.08216,2.39920,,1.47860,,
+Building,Cathedral of Our Lady Antwerp,,51.22027,4.40152,,1.89789,,
+Building,Chartres Cathedral,,48.44780,1.48784,,1.10308,,
+Building,Church of Our Lady Bruges,,51.20465,3.22447,,1.61951,,
+Building,Basilique Notre-Dame de la Garde,,43.28395,5.37124,,2.27165,,
+Building,Cathedrale Notre-Dame de Paris,,48.85297,2.34990,,1.34808,,
+Building,The Oude Church,,52.37437,4.89821,,1.80450,,
+Building,Reims Cathedral,,49.25386,4.03404,,2.00746,,
+Building,Cathedrale Notre Dame de Strasbourg,,48.58188,7.75103,,2.78672,,
+Building,Cathedral of Our Lady,,50.60649,3.38890,,1.58953,,
+Building,Vezelay Abbey,,47.46638,3.74874,,1.71449,,
+Building,Erasmus Bridge,,51.90933,4.48624,,1.85108,,
+Building,Pont de Normandie,,49.43061,0.27424,,0.74429,,
+Building,Pont de Wandre,,50.67429,5.64320,,2.21425,,
+Building,Pythonbrug,,52.37321,4.94890,,1.80037,,
+Building,Pont de Saint-Nazaire,,47.28465,-2.17042,,-0.08806,,
+Building,Arc de Triomphe,,48.87381,2.29503,,1.33310,,
+Building,Arles + Roman and Romanesque Monuments,,43.67697,4.63059,,2.04064,,
+Building,Champs-Elysees,,48.86950,2.30874,,1.33683,,
+Building,Belfry of Bruges,,51.20815,3.22480,,1.61866,,
+Building,Cairn of Barnenez,,48.66759,-3.85836,,-0.53355,,
+Building,Canadian National Vimy Memorial,,50.37959,2.77397,,1.28176,,
+Building,Cite de Carcassonne,,43.20608,2.36420,,1.56857,,
+Building,Caserne Loubere + Lighthouse,,4.93865,-52.33756,,-18.44510,,
+Building,Chateau de Chenonceau,,47.32487,1.07030,,1.20093,,
+Building,Chateau de Costa�res,,48.83531,-3.49262,,-0.50710,,
+Building,Chateau de Pierrefonds,,49.34697,2.98018,,1.31437,,
+Building,Chateau de Qu�ribus,,42.83677,2.62150,,1.57316,,
+Building,Chateau de Vaux le Vicomte,,48.56581,2.71413,,1.40175,,
+Building,Chateau du Haut-Koenigsbourg,,48.24949,7.34448,,2.79236,,
+Building,Citadelle de Lille,,50.64093,3.04458,,1.55316,,
+Building,Citadel of Namur,,50.45980,4.86112,,1.90066,,
+Lighthouse,Cordouan Lighthouse,,45.58633,-1.17335,,0.39289,,
+Building,Douaumont Ossuary,,49.20742,5.42457,,2.24126,,
+Building,Dreyfus Tower,,5.15857,-52.62655,,-18.40019,,
+Building,Dune of Pilat,,44.58965,-1.21333,,0.44401,,
+Building,Etretat Chalk Complex,,49.70701,0.20560,,0.67536,,
+Building,Fort Boyard,,45.99953,-1.21392,,0.43637,,
+Building,Fort Napoleon des Saintes,,15.87529,-61.58213,,-14.98950,,
+Building,Grande Arche de la Defense,,48.89260,2.23611,,1.31624,,
+Building,Houtribdijk,,52.63333,5.41667,,2.13864,,
+Lighthouse,Ile Vierge lighthouse,,48.63884,-4.56750,,-0.83423,,
+Lighthouse,La Vieille Lighthouse,,48.04076,-4.75644,,-0.68625,,
+Building,Montparnasse Tower,,48.84214,2.32195,,1.34378,,
+Lighthouse,Maasvlakte Light,,51.97006,4.01473,,1.70684,,
+Building,Viaduc de Millau,,44.07745,3.02284,,1.88644,,
+Mountain,Mont Aiguille,,44.84202,5.55305,,2.27706,,
+Building,Grand Duke Jean Museum of Modern Art,,49.61712,6.14034,,2.47621,,
+Building,Musee Drai Eechelen,,49.61637,6.13925,,2.47629,,
+Building,Museum aan de Stroom,,51.22892,4.40482,,1.89648,,
+Building,Chateau de Fontainebleau,,48.40261,2.69695,,1.38946,,
+Building,Court of First Instance at Antwerp + Antwerp Division,,51.20393,4.38744,,1.90206,,
+Building,Palais des Festivals,,43.55078,7.01796,,2.69607,,
+Building,Palais des Papes,,43.95085,4.80770,,2.09526,,
+Building,Panorama of the Battle of Waterloo,,50.67931,4.40518,,1.88942,,
+Building,Pantheon,,48.84622,2.34641,,1.34824,,
+Building,Perret Tower,,45.18496,5.73542,,2.23255,,
+Lighthouse,Phare d'Eckmuhl,,47.79819,-4.37277,,-0.71584,,
+Lighthouse,Phare de Gatteville,,49.69647,-1.26590,,0.10172,,
+Building,Le Phare du Cap Ferret,,44.64591,-1.24882,,0.44760,,
+Building,Pic du Midi Observatory,,42.93704,0.14117,,0.95664,,
+Building,Place de la Concorde,,48.86563,2.32124,,1.34015,,
+Building,Place Stanislas,,48.69362,6.18324,,2.47523,,
+Lighthouse,Planier Light,,43.19870,5.22993,,2.29420,,
+Building,Pointe aux Canons Lighthouse,,46.78135,-56.16613,,-17.50091,,
+Building,Provinciaal Hof,,51.20885,3.22501,,1.61847,,
+Building,Rumm-Befestegungen,,49.61003,6.13901,,2.47759,,
+Building,Rijksmuseum,,52.36000,4.88522,,1.80253,,
+Lighthouse,Roches-Douvres Light,,49.10500,-2.81389,,-0.12128,,
+Building,Royal Palace Amsterdam,,52.37318,4.89137,,1.80478,,
+Building,Saline Royale d'Arc-et-Senans,,47.03318,5.77763,,2.19325,,
+Building,Vianden Castle,,49.93504,6.20272,,2.42572,,
+Building,Windmills at Kinderdijk,,51.88839,4.63695,,1.88955,,
+Building,Allianz Riviera - Nice Stadium,,43.70533,7.19285,,2.68362,,
+Building,Coque Sport Center,,49.62339,6.15412,,2.47597,,
+Building,De Grolsch Veste,,52.23656,6.83793,,2.41873,,
+Building,Johan Cruijff Arena,,52.31437,4.94196,,1.78663,,
+Building,King Baudouin Stadium,,50.89571,4.33412,,1.85251,,
+Building,Nouveau Stade de Bordeaux,,44.89736,-0.56159,,0.68785,,
+Building,Le Parc des Princes,,48.84143,2.25305,,1.32981,,
+Building,Groupama Stadium,,45.76529,4.98203,,2.08317,,
+Building,Philips Stadium,,51.44173,5.46745,,2.18174,,
+Building,Stade de France,,48.92446,2.36016,,1.34128,,
+Building,Stade de la Beaujoire,,47.25602,-1.52468,,0.27100,,
+Building,Geoffroy Stadium,,45.46077,4.39015,,2.02229,,
+Building,Stade Jean-Bouin,,48.84337,2.25289,,1.32941,,
+Building,Stade Pierre Mauroy,,50.61197,3.13049,,1.56913,,
+Building,Orange Velodrome,,43.26983,5.39589,,2.26998,,
+Building,Stadium TFC,,43.58330,1.43405,,1.28487,,
+Building,Adolphe Bridge,,49.60835,6.12702,,2.47712,,
+Building,Law Courts of Brussels,,50.83664,4.35161,,1.86403,,
+Building,CNIT,,48.89270,2.23946,,1.31700,,
+Building,Tour First,,48.88862,2.25177,,1.32065,,
+Building,Tour D2,,48.89028,2.24778,,1.31941,,
+Building,Coeur Defense,,48.89111,2.24388,,1.31834,,
+Building,ENGIE Tour T1,,48.89559,2.23966,,1.31648,,
+Building,Tour Majunga,,48.88880,2.24350,,1.31870,,
+Building,Tour Total,,48.89278,2.24333,,1.31789,,
+Building,Tour Carpe Diem,,48.89139,2.24583,,1.31874,,
+Building,Metallic tower of Fourviere,,45.76398,4.82237,,2.06136,,
+Building,Framatome,,48.89249,2.24190,,1.31761,,
+Lighthouse,Phare de la Jument,,48.42347,-5.13420,,-1.16485,,
+Building,Societe Generale,,48.89031,2.24063,,1.31774,,
+Airport,Bornholm Airport,EKRS,55.06287,14.76111,0,4.99748,,
+Airport,Isafjordur Airport,BIIS,66.05541,-23.14230,0,-14.32125,,
+Airport,Svalbard Airport,ENSB,78.24609,15.46556,0,10.66291,,
+Airport,Stockholm Arlanda Airport,,59.64976,17.92378,0,6.82924,,
+Airport,Vaasa Airport,,63.05125,21.76271,0,9.13373,,
+Building,Roskilde Cathedral,,55.64264,12.08045,0,4.43257,,
+Building,Oresund Bridge,,55.57063,12.84864,0,4.48878,,
+Building,Amalienborg,,55.68406,12.59302,0,4.49018,,
+Building,Copenhagen Opera House,,55.68193,12.60075,0,4.49087,,
+Building,Egeskov Castle,,55.17620,10.49021,0,3.78409,,
+Building,Frederiksborg Castle,,55.93497,12.30127,0,4.43868,,
+Building,Frogner Park,,59.92646,10.70347,0,4.09674,,
+Building,Kronborg Castle,,56.03901,12.62115,0,4.46740,,
+Building,LEGO House,,55.73066,9.11492,0,3.39955,,
+Building,Rosenborg Castle,,55.68583,12.57727,0,4.48837,,
+Building,Men by the Sea,,55.48776,8.41118,0,3.11475,,
+Building,Aarhus Idraetspark,,56.13186,10.19375,0,3.90402,,
+Building,Aalborg Portland Park,,57.05202,9.89862,0,3.37265,,
+Building,Blue Water Arena,,55.48217,8.43955,0,3.11484,,
+Building,Brondby Stadium,,55.64881,12.41754,0,4.46690,,
+Building,Parken Stadium,,55.70272,12.57232,0,4.48978,,
+Building,Helsinki Cathedral,,60.17042,24.95217,0,9.44105,,
+Building,The Old Church of Pet�j�vesi,,62.25011,25.18365,0,10.71071,,
+Building,Turku Cathedral,,60.45247,22.27832,0,8.88801,,
+Building,Uspenski Cathedral,,60.16854,24.95995,0,9.43797,,
+Building,Bomarsund Bridge,,60.21196,20.24244,0,8.10911,,
+Building,Replot Bridge,,63.20666,21.47150,0,9.28984,,
+Building,Olavinlinna,,61.86394,28.90107,0,11.79514,,
+Building,Suomenlinna,,60.14540,24.98814,0,9.41536,,
+Building,Nasinneula,,61.50496,23.74306,0,9.59627,,
+Building,Turku Castle,,60.43534,22.22870,0,8.88787,,
+Building,Bolt Arena,,60.18749,24.92184,0,9.45910,,
+Building,Helsinki Olympic Stadium,,60.18693,24.92715,0,9.45756,,
+Building,Hallgrimskirkja Church,,64.14202,-21.92655,0,-12.14442,,
+Mountain,Hvitserkur (Rock Formation),,65.60632,-20.63524,0,-12.34975,,
+Building,Perlan,,64.12921,-21.91905,0,-12.13648,,
+Building,Arctic Cathedral,,69.64803,18.98749,0,9.78681,,
+Building,Heddal stave church,,59.57957,9.17627,0,3.57343,,
+Building,Nidaros Cathedral,,63.42691,10.39694,0,4.29255,,
+Building,Urnes Stave Church,,61.29798,7.32295,0,2.82394,,
+Building,Fyksesund Bridge,,60.40018,6.26085,0,2.36666,,
+Building,Hardanger Bridge,,60.47900,6.82972,0,2.34380,,
+Building,Helgeland Bridge,,66.03757,12.72092,0,5.48700,,
+Building,Storseisundet Bridge,,63.01659,7.35287,0,2.90017,,
+Building,Tromso Bridge,,69.65160,18.97640,0,9.78788,,
+Building,Bryggen,,60.39757,5.32455,0,1.92596,,
+Building,Oslo Opera House,,59.90749,10.75313,0,4.10928,,
+Mountain,Pulpit Rock,,58.98645,6.19044,0,2.23535,,
+Building,The Royal Palace,,59.91704,10.72738,0,4.10290,,
+Building,Tyholttarnet,,63.42250,10.43194,0,4.29039,,
+Building,Holmenkollbakken,,59.96403,10.66776,0,4.09140,,
+Building,Brann Stadion,,60.36694,5.35747,0,1.92768,,
+Building,Intility Arena,,59.91785,10.80672,0,4.13052,,
+Building,Lerkendal stadion,,63.41233,10.40447,0,4.29216,,
+Building,Kristianstad Arena,,56.02319,14.16310,0,5.27744,,
+Building,Ullevaal Stadion,,59.94912,10.73437,0,4.11323,,
+Building,Viking Stadion,,58.91463,5.73153,0,2.02933,,
+Building,Frederik's Church,,55.68497,12.58957,0,4.48985,,
+Building,Holy Trinity Church,,56.03120,14.15269,0,5.27973,,
+Building,Kiruna Pastorat,,67.85201,20.23298,0,10.13948,,
+Building,Storkyrkan Stockholm Cathedral,,59.32579,18.07042,0,7.14673,,
+Building,Hoga Kusten Bridge,,62.79758,17.93840,0,7.53172,,
+Building,Oland Bridge,,56.67958,16.39162,0,5.90737,,
+Building,Solvesborg Bridge,,56.05054,14.59657,0,5.14623,,
+Building,Tallberg Bridges,,63.79388,19.34833,0,8.51162,,
+Building,Tjorn Bridge,,58.05927,11.78092,0,4.20347,,
+Building,Uddevalla Bridge,,58.32553,11.84452,0,4.27182,,
+Building,Dragon Gate,,60.46292,17.41557,0,6.93486,,
+Lighthouse,Kullen Lighthouse,,56.30099,12.45154,0,4.53185,,
+Building,Drottningholm Palace,,59.32169,17.88683,0,6.66744,,
+Building,Helsinki Ice Hall,,60.18927,24.92251,0,9.46009,,
+Building,Royal Swedish Opera,,59.32973,18.07048,0,7.14624,,
+Building,Stockholm City Hall,,59.32745,18.05435,0,7.14845,,
+Building,Stockholm Palace,,59.32682,18.07172,0,7.14645,,
+Building,Turning Torso,,55.61332,12.97636,0,4.51219,,
+Building,Boras Arena,,57.73444,12.93568,0,4.72092,,
+Building,Eleda Stadium,,55.58364,12.98781,0,4.50146,,
+Building,Friends Arena,,59.37270,18.00023,0,7.14699,,
+Building,Ullevi,,57.70590,11.98731,0,4.35273,,
+Building,Guldfageln Arena,,56.69118,16.31479,0,5.89816,,
+Building,Tele2 Arena,,59.29112,18.08432,0,7.14893,,
+Building,Svinesund Bridge,,59.09439,11.25185,0,4.44958,,
+Airport,Stuttgart Airport,,48.68881,9.19822,,3.25752,,
+Airport,Klagenfurt Airport,,46.65001,14.32486,,4.30654,,
+Airport,Flughafen Luebeck LBC,,53.80514,10.70143,,3.76789,,
+Airport,St. Gallen-Altenrhein Airport,,47.48587,9.56002,,3.25424,,
+Landform,Heligoland,,54.18033,7.88894,,2.69137,,
+Building,Volksparkstadion,,53.58713,9.89860,,3.43161,,
+Building,Museum Holstentor,,53.86626,10.67963,,3.77266,,
+Building,Fehmarn Sound Bridge,,54.40072,11.11183,,4.09077,,
+Building,Schwerin Castle,,53.62471,11.41824,,4.02124,,
+Building,St. Nicholas' Church,,53.54748,9.99065,,3.42409,,
+Building,Gross Raden Archaeological Open Air Museum,,53.73656,11.87786,,4.09008,,
+Building,St. Nicholas' Church - Stralsund,,54.31538,13.09105,,4.73130,,
+Building,St. Mary's Church,,54.30997,13.08788,,4.73256,,
+Landform,Jasmund National Park,,54.55106,13.64787,,4.71377,,
+Building,Rheinsberg Palace,,53.09839,12.88991,,4.20362,,
+Building,Brandenburg Gate,,52.51627,13.37770,,4.53516,,
+Building,Olympiastadion Berlin,,52.51470,13.23950,,4.53288,,
+Building,Campingpark Sanssouci,,52.36167,13.00750,,4.55870,,
+Building,Tropical Islands Resort,,52.03829,13.74656,,4.43808,,
+Building,Bastei,,50.96191,14.07317,,4.57211,,
+Building,Moritzburg,,51.15831,13.68143,,4.39973,,
+Building,Frauenkirche Dresden,,51.05187,13.74152,,4.36749,,
+Building,Katholische Hofkirche,,51.05351,13.73736,,4.36878,,
+Building,Monument to the Battle of the Nations,,51.31237,12.41327,,4.18619,,
+Building,Wartburg Castle,,50.96634,10.30634,,3.56908,,
+Building,Kyffhaeuserdenkmal mit Kaiser Barbarossa,,51.41340,11.10787,,3.92884,,
+Building,State Museum of Prehistory Halle (Saale),,51.49806,11.96255,,3.91858,,
+Building,Wernigerode Castle,,51.83066,10.79502,,3.70822,,
+Building,Magdeburg Cathedral,,52.12434,11.63466,,3.91977,,
+Building,Gruene Zitadelle,,52.12664,11.63437,,3.92012,,
+Building,Autostadt,,52.43267,10.79421,,3.66517,,
+Park,Herrenhausen Gardens,,52.38811,9.69666,,3.36810,,
+Building,Marienburg Castle,,52.17253,9.76658,,3.32425,,
+Building,Hermannsdenkmal,,51.91166,8.83950,,3.15844,,
+Building,St.-Paulus-Dom,,51.96298,7.62577,,2.81216,,
+Building,Signal Iduna Park,,51.49259,7.45186,,2.77800,,
+Building,Veltins - Arena,,51.55463,7.06753,,2.76057,,
+Building,Welterbe Zollverein (UNESCO),,51.48774,7.04392,,2.77773,,
+Building,Merkur Spiel - Arena,,51.26158,6.73319,,2.45216,,
+Building,Borussia Park,,51.17457,6.38551,,2.50800,,
+Building,Great St. Martin Church,,50.93850,6.96154,,2.60946,,
+Building,South Bridge,,50.91721,6.97349,,2.60694,,
+Building,Hohenzollern Bridge,,50.94160,6.96579,,2.61137,,
+Building,RheinEnergie Stadion,,50.93346,6.87515,,2.58588,,
+Building,Aachen Cathedral,,50.77472,6.08392,,2.42204,,
+Building,Drachenfels Castle,,49.12227,7.82825,,2.71060,,
+Building,Schloss Drachenburg,,50.66865,7.20637,,2.75018,,
+Building,Deutsches Eck,,50.36444,7.60592,,2.77208,,
+Building,Cochem Castle,,50.14226,7.16705,,2.84445,,
+Building,Katz Castle,,50.15195,7.72151,,2.73756,,
+Building,Niederwald Monument,,49.98101,7.89988,,2.88519,,
+Building,Frankfurt Cathedral,,50.11066,8.68542,,3.01445,,
+Building,Oper Frankfurt,,50.10814,8.67384,,3.01658,,
+Building,Deutsche Bank Park,,50.06858,8.64547,,3.01877,,
+Building,Saar Polygon,,49.31815,6.78554,,2.47855,,
+Building,Freiburger Munster,,47.99558,7.85279,,2.86157,,
+Building,Hohenzollern Castle,,48.32356,8.96740,,2.99021,,
+Building,Mercedes-Benz Arena,,48.79226,9.23208,,3.25001,,
+Building,Walhalla,,49.03114,12.22408,,4.10180,,
+Building,Allianz Arena,,48.21877,11.62476,,3.74126,,
+Building,Munich Olympic Stadium,,48.17313,11.54659,,3.74796,,
+Building,St Bartholomew's Church,,47.54470,12.97221,,3.96164,,
+Building,Melk Abbey,,48.22946,15.33350,,4.68478,,
+Building,Viennese Giant Ferris Wheel,,48.21662,16.39589,,4.89323,,
+Building,The Hofburg,,48.20566,16.36478,,4.89650,,
+Building,St. Stephen's Cathedral,,48.20841,16.37347,,4.89555,,
+Building,Schoenbrunn Palace,,48.18581,16.31276,,4.90260,,
+Building,Ernst Happel Stadium,,48.20721,16.42098,,4.88958,,
+Building,Eggenberg Palace - Graz,,47.07384,15.39341,,4.57945,,
+Building,Woerthersee Stadion,,46.60905,14.27820,,4.30398,,
+Building,Hohenwerfen Castle,,47.48293,13.18896,,4.16872,,
+Building,Kufstein Fortress,,47.58077,12.16864,,3.93784,,
+Building,Castle of Tarasp,,46.77848,10.26305,,3.43214,,
+Building,Landwasser Viaduct,,46.68082,9.67630,,3.24634,,
+Building,Castelgrande,,46.19307,9.02200,,3.28217,,
+Building,Montebello Castle,,46.19131,9.02653,,3.28187,,
+Building,Sasso Corbaro Castle,,46.18821,9.03007,,3.28195,,
+Building,Abbey of Saint Gall,,47.42350,9.37765,,3.25635,,
+Building,Kybun Park,,47.40833,9.30562,,3.25953,,
+Building,Einsiedeln Abbey,,47.12679,8.75264,,2.96180,,
+Building,Grossmuenster,,47.37009,8.54405,,3.00920,,
+Building,Swiss National Museum,,47.37906,8.54055,,3.00976,,
+Building,Stadion Letzigrund,,47.38267,8.50381,,3.01191,,
+Building,St. Jakob-Park,,47.54159,7.62008,,2.77101,,
+Building,Chapel Bridge,,47.05165,8.30754,,3.04741,,
+Building,Swissporarena,,47.03292,8.30515,,3.04935,,
+Building,Zentrum Paul Klee,,46.94889,7.47410,,2.75673,,
+Building,Wankdorf Stadium,,46.96311,7.46487,,2.75468,,
+Building,The Cathedral of Bern,,46.94722,7.45120,,2.75177,,
+Building,The Parliament Building,,46.94656,7.44426,,2.75028,,
+Building,Stade de la Maladiere,,46.99525,6.94436,,2.62708,,
+Building,Lausanne Cathedral,,46.52262,6.63537,,2.51550,,
+Building,Brunswick Monument,,46.20846,6.14898,,2.56019,,
+Building,Batiment des Forces Motrices,,46.20462,6.13718,,2.56249,,
+Building,Stade de Geneve,,46.17786,6.12745,,2.56864,,
+Building,Chillon Castle,,46.41421,6.92749,,2.49687,,
+Building,Observatorium Gornergrat,,45.98329,7.78348,,2.81385,,
+Building,Sphinx Observatory,,46.54745,7.98528,,2.76919,,
+Building,Elbphilharmonie Hamburg,,53.54133,9.98413,,3.42186,,
+Airport,Longreach Airport,YLRE,-23.43777,144.27423,,7.51754,,World Update 7
+Airport,Mount Beauty Airport,YMBT,-36.73386,147.16966,,12.51466,,World Update 7
+Building,1 William St,,-31.95557,115.85546,,-1.97597,,World Update 7
+Building,6000/108 St Georges Terrace,,-31.95439,115.85689,,-1.97576,,World Update 7
+Building,Queen Street,,-31.95086,115.85676,,-1.97333,,World Update 7
+Building,568 Collins St,,-37.81837,144.95543,,11.43650,,World Update 7
+Building,Abbot Point Coal Terminal,,-19.89926,148.08127,,8.00088,,World Update 7
+Building,Adelaide Oval,,-34.91552,138.59612,,7.95473,,World Update 7
+Building,Maribyrnong River Viaduct,,-37.74739,144.84613,,11.46450,,World Update 7
+Building,Anzac Bridge,,-33.86926,151.18575,,12.88594,,World Update 7
+Building,Aurora Melbourne Central,,-37.80962,144.96231,,11.43483,,World Update 7
+Building,RMIT Building 108,,-37.81358,144.96648,,11.43344,,World Update 7
+Lighthouse,Bathurst Point Lighthouse,,-31.98936,115.54068,,-1.85977,,World Update 7
+Building,Batman Bridge,,-41.21710,146.91476,,14.12540,,World Update 7
+Landform,Bay Of Islands,,-35.21672,174.15407,,19.01650,,World Update 7
+Building,Bolte Bridge,,-37.81937,144.93221,,11.44338,,World Update 7
+Building,Arise Brisbane Skytower,,-27.47188,153.02882,,11.17327,,World Update 7
+Building,Brookfield Place,,-31.95500,115.85500,,-1.97539,,World Update 7
+Building,Canberra Deep Space Communication Complex,,-35.40250,148.98294,,12.34641,,World Update 7
+Lighthouse,Cape Byron Lighthouse,,-28.63847,153.63625,,11.53858,,World Update 7
+Lighthouse,Cape Cleveland Lighthouse,,-19.18296,147.01550,,7.42593,,World Update 7
+Lighthouse,Cape Don Lighthouse,,-11.30780,131.76514,,2.42806,,World Update 7
+Lighthouse,Cape Nelson Lighthouse,,-38.43093,141.54289,,10.36455,,World Update 7
+Lighthouse,Cape Wickham Lighthouse,,-39.58868,143.94295,,11.73470,,World Update 7
+Building,Cascade Dam,,-41.17590,147.82515,,14.58451,,World Update 7
+Building,Devils Gate Dam,,-41.35011,146.26498,,14.04257,,World Update 7
+Building,Eureka Tower,,-37.82133,144.96469,,11.43362,,World Update 7
+Building,Federation Square,,-37.81798,144.96906,,11.43247,,World Update 7
+Building,Flinders Street Railway Station,,-37.81827,144.96706,,11.43305,,World Update 7
+Lighthouse,Gabo Island Lighthouse,,-37.56877,149.91687,,13.60397,,World Update 7
+Building,Gladesville Bridge,,-33.84207,151.14772,,12.87843,,World Update 7
+Building,Gordon Dam,,-42.73024,145.97641,,14.12700,,World Update 7
+Landform,Green Island Jetty,,-16.75802,145.96922,,6.48129,,World Update 7
+Building,Hawkesbury River Railroad Bridge,,-33.53383,151.22861,,12.68071,,World Update 7
+Building,Houghton Highway Bridge,,-27.27300,153.07234,,11.06400,,World Update 7
+Building,Infinity Tower,,-27.46781,153.01955,,11.17078,,World Update 7
+Building,Longitude 131,,-25.24996,131.00829,,3.93558,,World Update 7
+Building,Luna Park Melbourne,,-37.86781,144.97693,,11.42735,,World Update 7
+Building,Marvel Stadium,,-37.81657,144.94751,,11.43890,,World Update 7
+Building,Melbourne Cricket Ground,,-37.81997,144.98344,,11.42809,,World Update 7
+Building,Melbourne Square,,-37.82561,144.96339,,11.43382,,World Update 7
+Building,Mooney Mooney Bridge,,-33.43229,151.25397,,12.62301,,World Update 7
+Building,Murchison Radio-astronomy Observatory,,-26.69699,116.63693,,0.00103,,World Update 7
+Building,Narrows Bridge,,-31.96339,115.84672,,-1.97756,,World Update 7
+Building,Optus Stadium,,-31.95116,115.88905,,-1.98672,,World Update 7
+Building,Parkes Observatory,,-32.99860,148.26215,,11.50031,,World Update 7
+Building,Narrabri,,-30.33413,149.57814,,10.86927,,World Update 7
+Building,Peats Ferry Bridge,,-33.53895,151.19917,,12.68454,,World Update 7
+Building,RAC Arena,,-31.94843,115.85211,,-1.96981,,World Update 7
+Building,Phillip Island Grand Prix Circuit,,-38.50142,145.23187,,12.30370,,World Update 7
+Building,Premier Tower,,-37.81742,144.95364,,11.43706,,World Update 7
+Building,Prima Pearl Tower,,-37.82293,144.96138,,11.43454,,World Update 7
+Building,Queens Place North Tower,,-37.81006,144.95876,,11.43584,,World Update 7
+Building,Rialto,,-37.81828,144.95764,,11.43585,,World Update 7
+Building,Siding Spring Observatory,,-31.27495,149.06847,,11.10542,,World Update 7
+Building,Sir Leo Hielscher Bridges (Gateway Bridges),,-27.44489,153.10083,,11.15975,,World Update 7
+Building,Soleil,,-27.46233,153.03256,,11.16783,,World Update 7
+Landform,South Sister Lookout,,-41.53416,148.17183,,15.17493,,World Update 7
+Lighthouse,Split Point Lighthouse Tours,,-38.46772,144.10423,,11.81497,,World Update 7
+Building,Stadium Australia,,-33.84711,151.06339,,12.90197,,World Update 7
+Building,Story Bridge,,-27.46363,153.03586,,11.16864,,World Update 7
+Building,Suncorp Stadium,,-27.46485,153.00954,,11.16888,,World Update 7
+Building,Swanston Central,,-37.80608,144.96184,,11.43512,,World Update 7
+Building,Sydney Cricket Ground,,-33.89153,151.22485,,12.88888,,World Update 7
+Building,Allianz Stadium,,-33.88907,151.22536,,12.88731,,World Update 7
+Building,Sydney Harbour Bridge,,-33.85231,151.21078,,12.86950,,World Update 7
+Building,Sydney Tower,,-33.87032,151.20888,,12.88064,,World Update 7
+Building,Tasman Bridge,,-42.86475,147.34541,,15.45528,,World Update 7
+Building,The Big Banana Fun Park,,-30.27489,153.13373,,12.05495,,World Update 7
+Building,The Big Merino,,-34.77251,149.69145,,12.40390,,World Update 7
+Building,The Big Pineapple,,-26.67222,152.99110,,10.60459,,World Update 7
+Building,The Big Prawn,,-28.86374,153.53262,,11.61623,,World Update 7
+Building,The Gabba,,-27.48584,153.03809,,11.18137,,World Update 7
+Building,Western Australian Cricket Association,,-31.95981,115.87953,,-1.98882,,World Update 7
+Landform,Three Sisters,,-33.73231,150.31407,,12.43365,,World Update 7
+Building,Port of Townsville,,-19.25131,146.83441,,7.29805,,World Update 7
+Landform,Twelve Apostles,,-38.66457,143.10298,,11.48887,,World Update 7
+Lighthouse,Wadjemup Lighthouse,,-32.00728,115.50419,,-1.84678,,World Update 7
+Building,Warragamba Dam,,-33.88303,150.59560,,12.43394,,World Update 7
+Building,West Gate Bridge,,-37.82959,144.89833,,11.45362,,World Update 7
+Building,West Side Place,,-37.81431,144.95256,,11.43749,,World Update 7
+Lighthouse,Wilsons Promontory Lightstation,,-39.12950,146.42456,,13.00242,,World Update 7
+Building,Central Park,,-37.86690,145.04874,,12.19382,,World Update 7
+Building,443 Queen St,,-37.80803,144.95802,,11.43613,,World Update 7
+Airport,Paraburdoo Airport,YPBO,-23.17379,117.74788,,0.80482,,World Update 7
+Airport,Shellharbour Airport,YSHL,-34.56036,150.79048,,12.71558,,World Update 7
+Airport,Andorra-La Seu d'Urgell Airport,LESU,42.33772,1.40592,,1.31577,,World Update 8
+Airport,Pico Airport,LPPI,38.55231,-28.44331,,-8.69912,,World Update 8
+Airport,Faro Airport,LPFR,37.01742,-7.97160,,-0.96430,,World Update 8
+Airport,A Coruna Airport,LECO,43.30222,-8.38140,,-1.69578,,World Update 8
+Building,Alcazar de Segovia,,40.95257,-4.13254,,-0.19025,,World Update 8
+Building,Alcazar de Toledo,,39.85775,-4.02050,,-0.15791,,World Update 8
+Building,Aldeadavila Dam,,41.21193,-6.68567,,-0.87259,,World Update 8
+Building,Barragem de Alqueva,,38.19735,-7.49679,,-1.12059,,World Update 8
+Building,La Sagrada Familia,,41.40363,2.17436,,1.57214,,World Update 8
+Building,Lisbon Harbour Control Tower,,38.69159,-9.21598,,-1.73545,,World Update 8
+Building,Bom Jesus do Monte,,41.55134,-8.37506,,-1.56071,,World Update 8
+Building,Braga Cathedral,,41.54999,-8.42690,,-1.56274,,World Update 8
+Building,Camp Nou,,41.38090,2.12282,,1.57853,,World Update 8
+Building,Casa da Musica,,41.15888,-8.63070,,-1.51540,,World Update 8
+Building,Casa Mila,,41.39521,2.16190,,1.57405,,World Update 8
+Building,Castelo dos Mouros,,38.79256,-9.38934,,-1.75275,,World Update 8
+Building,Santa Barbara Castle,,38.34897,-0.47803,,0.82437,,World Update 8
+Building,Castle of Almansa,,38.87157,-1.09341,,0.65205,,World Update 8
+Building,Burgos Cathedral,,42.34079,-3.70439,,-0.02879,,World Update 8
+Building,Catedral de Lean,,42.59970,-5.56667,,-0.66732,,World Update 8
+Building,Catedral de Murcia,,37.98405,-1.12858,,0.66677,,World Update 8
+Building,Basilica de Nuestra Señora del Pilar,,41.65677,-0.87852,,0.77154,,World Update 8
+Building,Catedral de Sevilla,,37.38583,-5.99311,,-0.47746,,World Update 8
+Building,Cathedral of Santiago de Compostela,,42.88060,-8.54465,,-1.65971,,World Update 8
+Building,Christ The King,,38.67945,-9.17133,,-1.73210,,World Update 8
+Building,Ciudad de las Artes y las Ciencias,,39.45488,-0.35049,,0.82518,,World Update 8
+Building,Covao dos Conchos,,40.36390,-7.61105,,-1.17563,,World Update 8
+Landform,Flysch de Zumaia,,43.30123,-2.26039,,0.17336,,World Update 8
+Building,Royal Seat of San Lorenzo de El Escorial,,40.58904,-4.14773,,-0.25884,,World Update 8
+Landform,Mallos de Riglos,,42.35139,-0.72417,,0.80754,,World Update 8
+Building,Palace of Gaudi Astorga,,42.45783,-6.05594,,-0.97909,,World Update 8
+Building,Estadio Algarve,,37.08838,-7.97558,,-0.98466,,World Update 8
+Building,EFAPEL City of Coimbra Stadium,,40.20321,-8.40766,,-1.51809,,World Update 8
+Building,Estadio D. Afonso Henriques,,41.44593,-8.30095,,-1.56584,,World Update 8
+Building,Estadio do Sport Lisboa e Benfica,,38.75271,-9.18477,,-1.72048,,World Update 8
+Building,Estadio do Dragao,,41.16177,-8.58359,,-1.52605,,World Update 8
+Building,Jose Alvalade Stadium,,38.76123,-9.16180,,-1.71499,,World Update 8
+Building,Estadio Municipal de Aveiro - Mario Duarte,,40.64781,-8.59370,,-1.52884,,World Update 8
+Building,Fortress Sao Joao Baptista,,39.41140,-9.51016,,-1.79501,,World Update 8
+Building,Freixo Bridge,,41.14170,-8.58088,,-1.52447,,World Update 8
+Building,Guadiana's International Bridge,,37.23761,-7.41839,,-1.11991,,World Update 8
+Building,Guggenheim Museum Bilbao,,43.26867,-2.93401,,0.25840,,World Update 8
+Building,Hotel Arts Barcelona,,41.38706,2.19642,,1.57351,,World Update 8
+Building,Hotel Marques de Riscal,,42.51159,-2.61761,,0.23058,,World Update 8
+Building,Puente De La Constitucian De 1812,,36.52295,-6.26549,,-0.79881,,World Update 8
+Building,Ermita de San Juan de Gaztelugatxe,,43.44731,-2.78499,,0.20123,,World Update 8
+Building,La Vicaria Arch Bridge,,38.35463,-2.26308,,0.29444,,World Update 8
+Landform,Las Hurdes,,40.36395,-6.25884,,-0.89111,,World Update 8
+Landform,Las Medulas,,42.45722,-6.76881,,-0.96192,,World Update 8
+Building,The Ferreres Aqueduct,,41.14590,1.24392,,1.36098,,World Update 8
+Building,Leziria Bridge,,39.01281,-8.93438,,-1.32133,,World Update 8
+Building,Luis I Bridge,,41.13996,-8.60945,,-1.51765,,World Update 8
+Building,Lusitania,,38.91676,-6.35358,,-0.79026,,World Update 8
+Building,Magma Art & Congress,,28.06976,-16.72683,,-4.31713,,World Update 8
+Building,Ponte D. Maria Pia,,41.13984,-8.59714,,-1.52049,,World Update 8
+Building,Setas de Sevilla,,37.39327,-5.99175,,-0.47972,,World Update 8
+Building,Mosque-Cathedral of Cardoba,,37.87891,-4.77939,,-0.28662,,World Update 8
+Building,Molinos de Campo de Criptana,,39.40988,-3.12376,,0.01789,,World Update 8
+Building,Montjuic Castle,,41.36296,2.16506,,1.57900,,World Update 8
+Building,Monument to Alfonso XII,,40.41732,-3.68306,,0.02174,,World Update 8
+Building,Museu Nacional d'Art de Catalunya,,41.36844,2.15357,,1.57884,,World Update 8
+Building,Museum Of Art Architecture And Technology,,38.69593,-9.19445,,-1.73197,,World Update 8
+Building,Edificio Mirador,,40.48762,-3.65494,,0.01240,,World Update 8
+Building,Observatorio Roque de los Muchachos,,28.75725,-17.88501,,-4.78846,,World Update 8
+Building,Oceanario de Lisboa,,38.76354,-9.09374,,-1.70271,,World Update 8
+Building,Oscar Niemeyer International Cultural Centre,,43.55737,-5.91835,,-0.73542,,World Update 8
+Building,Palacio de los Deportes de Santander,,43.47560,-3.79598,,-0.09555,,World Update 8
+Park,El Retiro Park,,40.41526,-3.68450,,0.02207,,World Update 8
+Building,Park and National Palace of Pena,,38.78759,-9.39061,,-1.75321,,World Update 8
+Landform,As Catedrais beach,,43.55406,-7.15723,,-1.35168,,World Update 8
+Building,Plaza de Espana,,37.37720,-5.98689,,-0.47537,,World Update 8
+Building,Ponte 25 de Abril,,38.68963,-9.17711,,-1.73090,,World Update 8
+Building,Ponte de Barcelos,,41.52749,-8.62228,,-1.56720,,World Update 8
+Building,Puente de Triana,,37.38617,-6.00252,,-0.83772,,World Update 8
+Building,San Martin's Bridge,,39.85670,-4.03417,,-0.16102,,World Update 8
+Building,Ponte de Rande,,42.28806,-8.66056,,-1.58645,,World Update 8
+Building,Roman Bridge of Cardoba,,37.87671,-4.77797,,-0.28596,,World Update 8
+Building,Royal Palace of Madrid,,40.41795,-3.71431,,0.02309,,World Update 8
+Building,San Pablo Bridge,,40.07829,-2.12752,,0.21342,,World Update 8
+Building,Santa Caterina Market,,41.38636,2.17816,,1.57459,,World Update 8
+Building,Recinto Ferial,,28.45420,-16.25797,,-4.37472,,World Update 8
+Building,Tenerife International Center For Fairs And Congresses,,28.45420,-16.25797,,-4.37472,,World Update 8
+Building,The Roman Aqueduct Of Segovia,,40.94799,-4.11779,,-0.18726,,World Update 8
+Building,Puente del Tercer Milenio,,41.66572,-0.90837,,0.76683,,World Update 8
+Building,Agbar Tower,,41.40340,2.18959,,1.57148,,World Update 8
+Building,Tower of Hercules,,43.38596,-8.40650,,-1.69388,,World Update 8
+Building,Torre Mapfre,,41.38778,2.19750,,1.57335,,World Update 8
+Building,Torre Vasco da Gama,,38.77478,-9.09176,,-1.69965,,World Update 8
+Building,Vasco da Gama Bridge,,38.75804,-9.03747,,-1.69447,,World Update 8
+Building,Vizcaya Bridge,,43.32319,-3.01714,,-0.13988,,World Update 8
+Building,W Barcelona,,41.36844,2.19015,,1.57657,,World Update 8
+Building,Wanda Metropolitano Stadium,,40.43620,-3.59947,,0.01629,,World Update 8
+Building,Zubizuri Bridge,,43.26634,-2.92777,,0.25827,,World Update 8
+Airport,Palermo Airport,LICJ,38.17955,13.09896,,3.56852,,World Update 9 Italy and Malta
+Airport,Sondrio Airport,LILO,46.15356,9.79289,,3.16993,,World Update 9 Italy and Malta
+Airport,Marina di Campo Airport,LIRJ,42.76283,10.23746,,3.26268,,World Update 9 Italy and Malta
+Airport,Bolzano Airport,LIPB,46.46249,11.32986,,3.67410,,World Update 9 Italy and Malta
+Building,Allianz Stadium,,45.10963,7.64124,,2.71174,,World Update 9 Italy and Malta
+Building,Arch of Constantine,,41.88977,12.49060,,3.61174,,World Update 9 Italy and Malta
+Building,Verona Arena,,45.43900,10.99436,,3.39837,,World Update 9 Italy and Malta
+Building,Basilica di San Petronio,,44.49294,11.34313,,3.57254,,World Update 9 Italy and Malta
+Building,Torcello Basilica,,45.49833,12.41908,,3.83099,,World Update 9 Italy and Malta
+Building,Basilica of San Francesco d'Assisi,,43.07497,12.60540,,3.66822,,World Update 9 Italy and Malta
+Building,Biosfera,,44.40983,8.92548,,2.93051,,World Update 9 Italy and Malta
+Building,Bruneck Castle,,46.79456,11.93959,,3.74470,,World Update 9 Italy and Malta
+Lighthouse,Capo Santa Maria di Leuca Lighthouse,,39.79591,18.36843,,4.39111,,World Update 9 Italy and Malta
+Building,Royal Palace of Caserta,,41.07317,14.32719,,3.92076,,World Update 9 Italy and Malta
+Building,Castel del Monte,,41.08477,16.27094,,4.24826,,World Update 9 Italy and Malta
+Building,Castel San Michele o Castello di Ossana,,46.77222,11.89219,,3.73367,,World Update 9 Italy and Malta
+Building,Castel Savoia,,45.76404,7.82671,,2.78726,,World Update 9 Italy and Malta
+Building,Piccolomini Castle,,42.08467,13.54526,,3.79500,,World Update 9 Italy and Malta
+Building,Castle of Graines,,45.73854,7.75399,,2.77472,,World Update 9 Italy and Malta
+Building,Miramare Castle,,45.70123,13.72056,,4.06558,,World Update 9 Italy and Malta
+Building,Castle of Roccascalegna,,42.06263,14.30492,,3.99887,,World Update 9 Italy and Malta
+Building,Verres Castle,,45.66982,7.69592,,2.76087,,World Update 9 Italy and Malta
+Building,Este Castle,,44.83776,11.61957,,3.60708,,World Update 9 Italy and Malta
+Building,Monforte Castle,,41.56329,14.65563,,3.93730,,World Update 9 Italy and Malta
+Building,Sforzesco Castle,,45.47048,9.17933,,3.19570,,World Update 9 Italy and Malta
+Building,Castelsardo,,40.91369,8.70859,,2.86145,,World Update 9 Italy and Malta
+Building,Ducal Castle of Corigliano Calabro,,39.59660,16.51719,,4.09271,,World Update 9 Italy and Malta
+Building,Castle of Serravalle,,40.29770,8.50478,,2.80244,,World Update 9 Italy and Malta
+Building,Cathedral of Santa Maria del Fiore,,43.77314,11.25596,,3.50915,,World Update 9 Italy and Malta
+Building,Church of Saint Mary 'della Pieta',,42.32984,13.68762,,3.80754,,World Update 9 Italy and Malta
+Building,CityLife,,45.47576,9.15298,,3.19527,,World Update 9 Italy and Malta
+Building,Civita di Bagnoregio,,42.62757,12.11304,,3.63789,,World Update 9 Italy and Malta
+Building,Duomo di Milano,,45.46410,9.19193,,3.19626,,World Update 9 Italy and Malta
+Building,Duomo di Modena,,44.64631,10.92552,,3.40153,,World Update 9 Italy and Malta
+Building,Duomo di Orvieto,,42.71708,12.11331,,3.63077,,World Update 9 Italy and Malta
+Building,Cattedrale di Parma,,44.80326,10.33117,,3.35962,,World Update 9 Italy and Malta
+Building,Duomo di Siena,,43.31770,11.32891,,3.52216,,World Update 9 Italy and Malta
+Landform,Faro di Capo Caccia,,40.56068,8.16301,,2.80495,,World Update 9 Italy and Malta
+Building,Bisantis bridge,,38.90658,16.58429,,4.04506,,World Update 9 Italy and Malta
+Building,Fenis Castle,,45.73693,7.48888,,2.74446,,World Update 9 Italy and Malta
+Building,Fort Manoel,,35.90303,14.50545,,3.51429,,World Update 9 Italy and Malta
+Building,Fort St. Angelo,,35.89247,14.51784,,3.51485,,World Update 9 Italy and Malta
+Building,Fort of Bard,,45.60836,7.74477,,2.75701,,World Update 9 Italy and Malta
+Building,Gorizia Castle,,45.94444,13.62778,,4.08700,,World Update 9 Italy and Malta
+Landform,Neptune's Grotto,,40.56503,8.16045,,2.80450,,World Update 9 Italy and Malta
+Building,Fort Tigne,,35.90648,14.51320,,3.51546,,World Update 9 Italy and Malta
+Landform,Isola Bella,,45.89535,8.52704,,2.98545,,World Update 9 Italy and Malta
+Building,Kirchturm Von Altgraun,,46.81071,10.53658,,3.46972,,World Update 9 Italy and Malta
+Landform,Le Morge,,42.20485,14.60223,,3.97210,,World Update 9 Italy and Malta
+Lighthouse,Lighthouse of Genoa,,44.40453,8.90464,,2.93013,,World Update 9 Italy and Malta
+Building,Stadio San Paolo,,40.82794,14.19306,,3.84679,,World Update 9 Italy and Malta
+Building,Castel Nuovo,,40.83849,14.25272,,3.85304,,World Update 9 Italy and Malta
+Building,MAXXI - National Museum of 21st Century Art,,41.92825,12.46686,,3.61046,,World Update 9 Italy and Malta
+Building,Mdina Old City Fortess,,35.88493,14.40283,,3.50158,,World Update 9 Italy and Malta
+Building,MiCo - Milano Convention Centre,,45.48143,9.15354,,3.19459,,World Update 9 Italy and Malta
+Building,Messner Mountain Museum Corones,,46.73742,11.95467,,3.73273,,World Update 9 Italy and Malta
+Building,Modigliani Forum,,43.55521,10.34274,,3.32340,,World Update 9 Italy and Malta
+Building,Mole Antonelliana,,45.06901,7.69322,,2.69819,,World Update 9 Italy and Malta
+Building,Monte Santo di Lussari,,46.47980,13.52366,,4.09925,,World Update 9 Italy and Malta
+Building,Monumento a Vittorio Emanuele II,,45.06566,7.67092,,2.70230,,World Update 9 Italy and Malta
+Building,Mosta Rotunda,,35.90977,14.42594,,3.50551,,World Update 9 Italy and Malta
+Building,Museo Archeologico Di Napoli - Sezione Egizia,,40.85347,14.25127,,3.85283,,World Update 9 Italy and Malta
+Building,Napoli Afragola Railway Station,,40.93176,14.33136,,3.86359,,World Update 9 Italy and Malta
+Building,National Stadium Ta'Qali,,35.89484,14.41540,,3.50349,,World Update 9 Italy and Malta
+Building,Su Nuraxi di Barumini,,39.70611,8.99114,,2.81541,,World Update 9 Italy and Malta
+Building,Pitti Palace,,43.76515,11.25001,,3.50882,,World Update 9 Italy and Malta
+Building,Pantheon,,41.89861,12.47687,,3.61034,,World Update 9 Italy and Malta
+Building,Parish Church of Mellieha,,35.96059,14.36083,,3.49978,,World Update 9 Italy and Malta
+Landform,Passo Dello Stelvio,,46.52936,10.45321,,3.45271,,World Update 9 Italy and Malta
+Building,Piazza Dei Miracoli (Torre Di Pisa),,43.72295,10.39660,,3.32562,,World Update 9 Italy and Malta
+Building,Place Moulin Dam,,45.89772,7.49354,,2.74671,,World Update 9 Italy and Malta
+Building,Portomaso Business Tower,,35.92197,14.49246,,3.51421,,World Update 9 Italy and Malta
+Building,RAS Sendemast,,46.74004,11.95982,,3.73392,,World Update 9 Italy and Malta
+Building,La Venaria Reale,,45.13681,7.61992,,2.71747,,World Update 9 Italy and Malta
+Building,Rocca Calascio,,42.32887,13.68886,,3.80734,,World Update 9 Italy and Malta
+Building,Saint Mark's Basilica,,45.43456,12.33971,,3.83091,,World Update 9 Italy and Malta
+Building,San Siro Stadium,,45.47812,9.12396,,3.19510,,World Update 9 Italy and Malta
+Building,Santissima Trinita Di Saccargia,,40.67149,8.68968,,2.83104,,World Update 9 Italy and Malta
+Building,Santuario Di Loreto,,43.44105,13.61032,,3.89169,,World Update 9 Italy and Malta
+Landform,Scala Dei Turchi,,37.28997,13.47276,,3.46936,,World Update 9 Italy and Malta
+Building,St Agatha's Tower (Red Tower),,35.97466,14.34293,,3.49787,,World Update 9 Italy and Malta
+Building,St. Valentin Church,,46.54975,11.56297,,3.67741,,World Update 9 Italy and Malta
+Building,Cathedral St. Pawl,,35.88638,14.40391,,3.50177,,World Update 9 Italy and Malta
+Building,Stadio Friuli,,46.08149,13.19979,,4.12386,,World Update 9 Italy and Malta
+Building,Marcantonio Bentegodi Stadium,,45.43532,10.96860,,3.39800,,World Update 9 Italy and Malta
+Building,Stadio Olimpico,,41.93408,12.45473,,3.60891,,World Update 9 Italy and Malta
+Building,Renato Dall'Ara Stadium,,44.49216,11.30995,,3.57248,,World Update 9 Italy and Malta
+Building,Statua Del Redentore (Maratea),,39.98772,15.72094,,4.00376,,World Update 9 Italy and Malta
+Building,Stele della Madonna della Lettera,,38.19651,15.56285,,3.82755,,World Update 9 Italy and Malta
+Building,Tempio Voltiano,,45.81484,9.07527,,3.14355,,World Update 9 Italy and Malta
+Building,Temple of Concordia Agrigento,,37.28966,13.59208,,3.46190,,World Update 9 Italy and Malta
+Landform,Dingli Cliffs,,35.85214,14.38537,,3.49822,,World Update 9 Italy and Malta
+Building,Timmelsjoch - Telescope Landform,,46.89292,11.12066,,3.62618,,World Update 9 Italy and Malta
+Building,Torre Astura,,41.42367,12.78320,,3.57688,,World Update 9 Italy and Malta
+Building,Torre Degli Asinelli E Garisenda,,44.49421,11.34673,,3.57254,,World Update 9 Italy and Malta
+Building,Torre della Pelosa,,40.97092,8.20697,,2.77742,,World Update 9 Italy and Malta
+Building,Three Towers of San Marino,,43.93500,12.45000,,3.72879,,World Update 9 Italy and Malta
+Building,Dreizinnenhutte - Rifugio A.Locatelli/S.Innerkofler,,46.63688,12.31052,,3.88453,,World Update 9 Italy and Malta
+Landform,Grotta del Palombaro,,38.68055,15.89593,,3.89347,,World Update 9 Italy and Malta
+Building,Vajont Dam,,46.26728,12.32927,,3.89246,,World Update 9 Italy and Malta
+Building,Vatican City,,41.90292,12.45339,,3.60723,,World Update 9 Italy and Malta
+Building,Ponte della Liberta,,45.45551,12.29574,,3.83137,,World Update 9 Italy and Malta
+Building,Viadotto Italia,,39.94917,15.95193,,4.03009,,World Update 9 Italy and Malta
+Building,Viadotto Sfalassa,,38.27121,15.80305,,3.81970,,World Update 9 Italy and Malta
+Building,Villa Olmo,,45.81897,9.06537,,3.14148,,World Update 9 Italy and Malta
+Landform,Isola Di Capo Rizzuto And The Aragonese Castle,,38.90707,17.02277,,4.12214,,World Update 9 Italy and Malta
+Landform,Lago di Santa Giustina,,46.34592,11.06137,,3.69448,,World Update 9 Italy and Malta
+Landform,Bastioni Di Siracusa,,37.07633,15.27558,,3.77020,,World Update 9 Italy and Malta
+Building,Bigo,,44.40886,8.92657,,2.93026,,World Update 9 Italy and Malta
+Airport,Catalina Airport,KAVX,33.40306,-118.41501,,11.62694,,World Update 10 USA
+Airport,Valdez Airport,PAVD,61.13338,-146.24355,,16.43839,,World Update 10 USA
+Airport,Lake Tahoe Airport,KTVL,38.89254,-119.99805,,13.02855,,World Update 10 USA
+Airport,Block Island State Airport,KBID,41.16933,-71.58038,,-13.88663,,World Update 10 USA
+Building,Abandoned Pacific Barrier Radar III,,15.24915,145.79622,,0.18298,,World Update 10 USA
+Building,Arecibo Observatory,,18.34640,-66.75282,,-13.24002,,World Update 10 USA
+Building,Ark Encounter - Life-size Noah's Ark,,38.62220,-84.59224,,-5.87177,,World Update 10 USA
+Building,Arlington Memorial Bridge,,38.88735,-77.05547,,-10.67437,,World Update 10 USA
+Building,Beavertail Lighthouse Museum,,41.44976,-71.39928,,-13.92134,,World Update 10 USA
+Building,Bennington Battle Monument,,42.88919,-73.21560,,-13.48601,,World Update 10 USA
+Building,Biosphere 2,,32.57845,-110.85136,,9.36693,,World Update 10 USA
+Building,Bishop Castle,,38.06142,-105.09442,,8.14790,,World Update 10 USA
+Building,Bluebeard's Castle,,18.34032,-64.92406,,-14.03063,,World Update 10 USA
+Building,Bok Tower Gardens Tower,,27.93727,-81.57738,,-6.41555,,World Update 10 USA
+Lighthouse,Cabo Rojo Lighthouse,,17.93770,-67.19434,,-12.88041,,World Update 10 USA
+Landform,Cahokia Mounds State Historic Site,,38.65506,-90.06182,,-1.63332,,World Update 10 USA
+Lighthouse,Cape Hatteras Lighthouse,,35.25054,-75.52882,,-10.96775,,World Update 10 USA
+Building,Catalina Casino,,33.34887,-118.32583,,11.62358,,World Update 10 USA
+Building,Cecil B. Day Butterfly Center,,32.83175,-84.85397,,-4.99068,,World Update 10 USA
+Building,Chaco Culture National Historical Park,,36.05300,-107.95592,,8.49475,,World Update 10 USA
+Building,Clingmans Dome Lookout Tower,,35.56276,-83.49850,,-6.16229,,World Update 10 USA
+Building,Crescent City Connection - New Orleans Bridges,,29.93886,-90.05754,,-1.14884,,World Update 10 USA
+Building,Crystal Bridges Museum of American Art,,36.38186,-94.20265,,1.45808,,World Update 10 USA
+Building,Deer Isle Bridge,,44.29411,-68.68880,,-15.65014,,World Update 10 USA
+Building,Delaware Memorial Bridge,,39.68967,-75.51971,,-11.72202,,World Update 10 USA
+Building,National Museum of Asian Art,,38.88817,-77.02738,,-10.68739,,World Update 10 USA
+Building,Grand Coulee Dam,,47.95655,-118.98099,,14.77783,,World Update 10 USA
+Building,Hearst Castle,,35.68521,-121.16823,,12.62585,,World Update 10 USA
+Building,High Point Monument,,41.32096,-74.66161,,-12.58883,,World Update 10 USA
+Building,Hirshhorn Museum,,38.88816,-77.02296,,-10.68934,,World Update 10 USA
+Building,Hot Springs Mountain Tower,,34.51727,-93.04609,,0.79117,,World Update 10 USA
+Building,Independence Temple site,,39.09105,-94.42634,,1.36835,,World Update 10 USA
+Building,Indian River Inlet Bridge,,38.60795,-75.06368,,-11.57343,,World Update 10 USA
+Building,Kentucky State Capitol,,38.18700,-84.87536,,-5.99180,,World Update 10 USA
+Building,Kinzua Bridge State Park,,41.75979,-78.58713,,-10.40782,,World Update 10 USA
+Building,Little Rock Central High School National Historic Site,,34.73803,-92.29745,,0.06311,,World Update 10 USA
+Building,Longaberger Company Headquarters,,40.06339,-82.34652,,-7.41430,,World Update 10 USA
+Building,Tree of Utah,,40.73358,-113.55141,,11.67761,,World Update 10 USA
+Building,MetLife Stadium,,40.81351,-74.07446,,-12.58641,,World Update 10 USA
+Building,Montana State Capitol,,46.58587,-112.01852,,12.30048,,World Update 10 USA
+Building,Montezuma Castle National Monument,,34.61158,-111.83498,,10.01099,,World Update 10 USA
+Building,George Washington's Mount Vernon,,38.70798,-77.08617,,-10.54444,,World Update 10 USA
+Building,Mount Washington Hotel,,44.25735,-71.43967,,-14.56780,,World Update 10 USA
+Building,National Gallery of Art,,38.89130,-77.01997,,-10.69295,,World Update 10 USA
+Building,National Gallery of Art - East Building,,38.89120,-77.01713,,-10.69414,,World Update 10 USA
+Building,National Museum of African American History and Culture,,38.89106,-77.03262,,-10.68712,,World Update 10 USA
+Building,National Museum of the American Indian,,38.88835,-77.01650,,-10.69235,,World Update 10 USA
+Building,National Park of American Samoa,,-14.25833,-170.68333,,11.97304,,World Update 10 USA
+Landform,Old Faithful Geyser,,44.46047,-110.82813,,11.11875,,World Update 10 USA
+Building,Old Faithful Inn,,44.45986,-110.83119,,11.11838,,World Update 10 USA
+Building,Our Lady of the Rockies,,46.00037,-112.44624,,12.25214,,World Update 10 USA
+Building,Pegasus Statue,,25.98231,-80.14055,,-7.01871,,World Update 10 USA
+Building,Philadelphia Museum of Art,,39.96557,-75.18097,,-11.93399,,World Update 10 USA
+Lighthouse,Point Reyes Lighthouse,,37.99561,-123.02325,,13.38964,,World Update 10 USA
+Building,Point Udall,,17.75594,-64.56723,,-13.95670,,World Update 10 USA
+Lighthouse,Pomham Rocks Lighthouse,,41.77770,-71.36935,,-14.02475,,World Update 10 USA
+Building,Puntan Dos Amantes (Two Lover's Point),,13.53497,144.80249,,0.45914,,World Update 10 USA
+Building,Royal Gorge Bridge & Park,,38.46169,-105.32576,,8.02166,,World Update 10 USA
+Building,San Antonio Missions National Historical Park,,29.32612,-98.44756,,3.88020,,World Update 10 USA
+Building,Castillo San Felipe del Morro,,18.47063,-66.12392,,-13.20147,,World Update 10 USA
+Building,Seuss House in Talkeetna,,62.03928,-150.08617,,15.06015,,World Update 10 USA
+Building,Skydance Bridge,,35.45661,-97.51742,,3.36348,,World Update 10 USA
+Building,Smithsonian Arts + Industries Building,,38.88774,-77.02447,,-10.68837,,World Update 10 USA
+Building,Smithsonian Castle Information Center,,38.88876,-77.02594,,-10.68845,,World Update 10 USA
+Building,Smithsonian National Air and Space Museum,,38.88816,-77.01987,,-10.69072,,World Update 10 USA
+Building,Smithsonian National Museum of American History,,38.89128,-77.03005,,-10.68843,,World Update 10 USA
+Building,Smithsonian National Museum of Natural History,,38.89127,-77.02606,,-10.69020,,World Update 10 USA
+Lighthouse,Split Rock Lighthouse,,47.19999,-91.36701,,-1.56224,,World Update 10 USA
+Building,St. Louis Arch,,38.62513,-90.18675,,-1.58816,,World Update 10 USA
+Building,Steven F. Udvar-Hazy Center,,38.91092,-77.44421,,-10.50797,,World Update 10 USA
+Building,The Breakers,,41.46984,-71.29824,,-13.92482,,World Update 10 USA
+Building,The Getty Museum,,34.07804,-118.47410,,11.76172,,World Update 10 USA
+Building,Theodore Roosevelt Dam,,33.67145,-111.16154,,9.80078,,World Update 10 USA
+Building,Thomas Jefferson Memorial,,38.88131,-77.03652,,-10.67850,,World Update 10 USA
+Building,Tillamook Air Museum Blimp Hangar,,45.42026,-123.80466,,15.12109,,World Update 10 USA
+Building,U.S. Department of Agriculture Patio,,38.88800,-77.02999,,-10.68612,,World Update 10 USA
+Building,Ulysses S. Grant Memorial,,38.88977,-77.01292,,-10.69498,,World Update 10 USA
+Building,Union Watersphere,,40.69254,-74.26289,,-12.47535,,World Update 10 USA
+Building,United States Botanic Garden,,38.88815,-77.01289,,-10.69380,,World Update 10 USA
+Building,US Marine Corps War Memorial,,38.89044,-77.06973,,-10.67013,,World Update 10 USA
+Building,USS Alabama,,30.68180,-88.01443,,-2.37899,,World Update 10 USA
+Building,Vermont State House,,44.26218,-72.58064,,-14.18254,,World Update 10 USA
+Building,Washington National Cathedral,,38.93060,-77.07078,,-10.69641,,World Update 10 USA
+Building,Wild Horse Renewable Energy Center,,47.01240,-120.20181,,14.99719,,World Update 10 USA
+Building,Will Rogers Shrine of the Sun,,38.77201,-104.86305,,7.64345,,World Update 10 USA
+Building,World War II Memorial,,38.88924,-77.04037,,-10.68238,,World Update 10 USA
+Building,Wupatki National Monument,,35.55998,-111.39352,,10.12545,,World Update 10 USA
+Building,Yerkes Observatory,,42.57035,-88.55627,,-3.44391,,World Update 10 USA

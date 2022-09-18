@@ -20,9 +20,11 @@ class PoiTrackerConfig:
                 raise PoiTrackerConfigError
 
             self.annunciation = self._config.getboolean("features", "annunciation")
+            self.traveling_salesman = self._config.getboolean("features", "traveling_salesman")
+            self.minimum_poi = int(self._config.get("features", "minimum_poi"))
             self.update_speed = int(self._config.get("features", "update_speed"))
             self.closest_count = int(self._config.get("features", "closest_count"))
             self.max_agl = int(self._config.get("restrictions", "max_agl"))  # ft
             self.max_speed = int(self._config.get("restrictions", "max_speed")) # knots
             self.max_distance = float(self._config.get("restrictions", "max_distance")) # nm
-            
+            self.settlement_distance = float(self._config.get("restrictions", "settlement_distance")) # nm

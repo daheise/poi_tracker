@@ -16,18 +16,18 @@ class PoiCurses:
         self.write_layout()
         self._state = CursesCommands.NORMAL
         self._messages = []
+        self._furthest_line_written = 0
 
     def write_layout(self):
         # Clear screen
         layout = """POI Tracker
 AGL:              Ground Speed: 
 
-Closest Unvisited POIs:
 
 
 
 
-Closest Visited POIs:
+
         """
         layout = textwrap.dedent(layout)
         self._screen.addstr(0, 0, layout)
@@ -39,18 +39,25 @@ Closest Visited POIs:
         self._screen.addstr(1, 5, f"{int(feet)} ft")
 
     def write_closest_unvisited_pois(self, pois = []):
-        line_num = 4
+        line_num = 3
+        self._screen.addstr(line_num, 0, "Closest Unvisited POIs:")
+        line_num += 1
         for m in pois:
             self._screen.addstr(line_num, 0, f"{m.name}, {m.distance:.1f} nm, {m.bearing:.0f}°")
             line_num += 1
+        self._furthest_line_written = line_num
         
     def write_closest_visited_pois(self, pois = []):
-        line_num = 9
+        line_num = self._furthest_line_written + 1
+        self._screen.addstr(line_num, 0, "Closest Visited POIs:")
+        line_num += 1
         for m in pois:
             self._screen.addstr(line_num, 0, f"{m.name}, {m.distance:.1f} nm, {m.bearing:.0f}°")
             line_num += 1
+        self._furthest_line_written = line_num
 
     def clear_messages(self):
+        self._furthest_line_written = 0
         eraser = " " * curses.COLS
         start = 12
         for i in range(start, curses.LINES - 1):

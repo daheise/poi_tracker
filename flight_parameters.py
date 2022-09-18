@@ -18,9 +18,9 @@ class FlightDataMetrics:
         self._config = config
         self.aq = AircraftRequests(self.sm)
         self.messages = []
-        self._request_sleep = 0.04
+        self._request_sleep = 0.1
         self._max_request_sleep = 1.0
-        self._min_request_sleep = 0.04
+        self._min_request_sleep = 0.1
         self.update()
 
     def _get_value(self, aq_name, retries=maxsize):

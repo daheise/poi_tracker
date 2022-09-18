@@ -3,3 +3,6 @@ SimConnect
 pyttsx3
 pyinstaller
 windows-curses
+plotly
+shapely
+pandas
