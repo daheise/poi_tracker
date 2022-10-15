@@ -12,6 +12,7 @@ from copy import copy
 class SimConnectDataError(Exception):
     pass
 
+
 class FlightDataMetrics:
     def __init__(self, simconnect_connection, config: PoiTrackerConfig):
         self.sm = simconnect_connection
@@ -31,7 +32,8 @@ class FlightDataMetrics:
         while val is None and i < retries:
             i += 1
             self._request_sleep = min(
-                self._request_sleep + self._min_request_sleep * i, self._max_request_sleep
+                self._request_sleep + self._min_request_sleep * i,
+                self._max_request_sleep,
             )
             sleep(self._request_sleep)
             val = self.aq.find(str(aq_name)).value
@@ -54,28 +56,28 @@ class FlightDataMetrics:
     @property
     def location(self):
         return (self.aq_cur_lat, self.aq_cur_long)
-    
+
     @property
     def agl(self):
         return self.aq_agl
-    
+
     @property
     def ground_speed(self):
         # Convert m/s to nm/s
         ground_speed = self.aq_ground_speed * 5.4e-4 * 60 * 60
         return ground_speed
 
+
 class SightseeingDiscriminator:
     def __init__(self, flight_parameters, config: PoiTrackerConfig):
         self._config = config
         self._flight_params: FlightDataMetrics = flight_parameters
         self.messages = []
-    
+
     @property
     def is_sightseeing(self):
-        if (self._flight_params.ground_speed < 200 and
-           self._flight_params.agl < 3500):
-           return True
+        if self._flight_params.ground_speed < 200 and self._flight_params.agl < 3500:
+            return True
 
     def get_messages(self):
         messages = copy(self.messages)

@@ -9,6 +9,7 @@ class CursesCommands(Enum):
     NORMAL = auto()
     QUIT = auto()
 
+
 class PoiCurses:
     def __init__(self, screen) -> None:
         self._screen = screen
@@ -31,28 +32,32 @@ AGL:              Ground Speed:
         """
         layout = textwrap.dedent(layout)
         self._screen.addstr(0, 0, layout)
-    
+
     def write_ground_speed(self, speed):
         self._screen.addstr(1, 32, f"{str(int(speed))} kts")
 
     def write_agl(self, feet: float):
         self._screen.addstr(1, 5, f"{int(feet)} ft")
 
-    def write_closest_unvisited_pois(self, pois = []):
+    def write_closest_unvisited_pois(self, pois=[]):
         line_num = 3
         self._screen.addstr(line_num, 0, "Closest Unvisited POIs:")
         line_num += 1
         for m in pois:
-            self._screen.addstr(line_num, 0, f"{m.name}, {m.distance:.1f} nm, {m.bearing:.0f}°")
+            self._screen.addstr(
+                line_num, 0, f"{m.name}, {m.distance:.1f} nm, {m.bearing:.0f}°"
+            )
             line_num += 1
         self._furthest_line_written = line_num
-        
-    def write_closest_visited_pois(self, pois = []):
+
+    def write_closest_visited_pois(self, pois=[]):
         line_num = self._furthest_line_written + 1
         self._screen.addstr(line_num, 0, "Closest Visited POIs:")
         line_num += 1
         for m in pois:
-            self._screen.addstr(line_num, 0, f"{m.name}, {m.distance:.1f} nm, {m.bearing:.0f}°")
+            self._screen.addstr(
+                line_num, 0, f"{m.name}, {m.distance:.1f} nm, {m.bearing:.0f}°"
+            )
             line_num += 1
         self._furthest_line_written = line_num
 

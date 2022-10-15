@@ -6,3 +6,7 @@ windows-curses
 plotly
 shapely
 pandas
+beautifulsoup4
+lxml
+unidecode
+networkx
