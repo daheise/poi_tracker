@@ -1,16 +1,14 @@
 from math import ceil
 import os
-from turtle import width
 import plotly.graph_objects as go
 import pandas as pd
 import sqlite3 as sql
+import poi_tracker
 
-line_width = 3
-marker_size = 5
+line_width = 4
+marker_size = line_width + 2
 
-
-with open("poi_tracker.py") as s:
-    exec(s.read())
+#poi_tracker.offline_main()
 
 fig = go.Figure()
 
@@ -66,7 +64,7 @@ for i in range(0, len(df_flight_paths)):
             # opacity = float(df_flight_paths['cnt'][i]) / float(df_flight_paths['cnt'].max()),
         )
     )
-for i in range(0, len(df_flight_paths)):
+#for i in range(0, len(df_flight_paths)):
     fig.add_trace(
         go.Scattergeo(
             locationmode="USA-states",
@@ -170,7 +168,7 @@ for i in range(0, len(df_pois)-1):
             marker=dict(size=marker_size + 1),
         )
     )
-# for i in range(0, num_visited):
+#for i in range(0, len(df_pois)-1):
     fig.add_trace(
         go.Scattergeo(
             lon=[df_pois["Longitude"][i], df_pois["Longitude"][i + 1]],
@@ -244,19 +242,20 @@ for i in range(0, len(df_pois)-1):
 #             )
 #     )
 
+(positron_land, positron_water) = ("rgb(250,250,248)","rgb(212,218,220)")
+(stamen_land, stamen_water) = ("rgb(192,206,158)", "rgb(153,179,204)")
+(osm_land, osm_water) = ("tan", "rgb(170,211,223)")
 fig.update_layout(
     # title_text="Around the World",
     showlegend=False,
     geo=dict(
         scope="world",
+        resolution=50,
         projection_type="equirectangular",
         showland=True,
-        landcolor="Tan",
-        # landcolor="rgb(233,233,233)",
-        # oceancolor="lightblue",
-        # lakecolor="lightblue",
-        oceancolor="rgb(170,211,223)",
-        lakecolor="rgb(170,211,223)",
+        landcolor=stamen_land,
+        oceancolor=stamen_water,
+        lakecolor=stamen_water,
         showcountries=False,
         showocean=True,
     ),

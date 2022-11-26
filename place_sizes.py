@@ -6,6 +6,7 @@ from scipy import stats
 
 
 df = pandas.read_csv("data/2021_Gaz_place_national.txt", delimiter="\t")
+df = df[df["NAME"].str.contains("city")]
 total_area = df["ALAND_SQMI"] + df["AWATER_SQMI"]
 print(total_area.describe())
 Q1 = total_area.quantile(0.25)

@@ -111,24 +111,25 @@ class Poi:
     def __str__(self):
         return f"Poi(LnmUserpoint({self.userpoint}), {self.distance}, {self.bearing})"
 
-    def __hash__(self):
+    def _get_comparable_name(self, name):
         name = unidecode(name).lower()
         punc = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~\s"
-        name = re.sub(f"[{punc}]", "", self.userpoint.name)
+        name = re.sub(f"[{punc}]", "", name)
+        return name
+
+    def __hash__(self):
+        name = self._get_comparable_name(self.name)
         return hash(
             f"{name}{self.userpoint.latitude}{self.userpoint.longitude}{self.userpoint.kind}"
         )
 
     def __eq__(self, other):
-        tmp_name = unidecode(self.name).lower()
-        tmp_other_name = unidecode(other.name).lower()
+        tmp_name = self._get_comparable_name(self.name)
+        tmp_other_name = self._get_comparable_name(other.name)
         distance = geopy.distance.great_circle(
             (self.lat, self.lon), (other.lat, other.lon)
         )
-        # punc = "\s–’/-'`"
-        punc = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~\s"
-        tmp_name = re.sub(f"[{punc}]", "", tmp_name)
-        tmp_other_name = re.sub(f"[{punc}]", "", tmp_other_name)
+
         same_kind = True
         # We only really care about kindedness if one is a settlement
         same_kind = self.userpoint.kind == other.userpoint.kind

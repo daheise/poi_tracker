@@ -182,7 +182,8 @@ class PoiTracker:
         # The point of this algorithm is to find a total path,
         # so collect everything
         # sort_these = self.unvisited_pois
-        # sort_these = self.unvisited_pois  + self.visited_pois
+        #sort_these = self.unvisited_pois  + self.visited_pois
+        #random.shuffle(sort_these)
         # Arbitrary but consistent sort to stabilize the path finding algorithm
         # Put our finger on the scale to encourage POIs near each other to be considered nearby in iterations
         (sort_these, _) = self._networkx_greedy_tsp()
@@ -308,15 +309,16 @@ class PoiTracker:
         for i in range(0, len(self.unvisited_pois)):
             j = -1
             try:
-                j = self.unvisited_pois[i + 1 :].index(self.unvisited_pois[i])
+                #j = self.unvisited_pois[i + 1 :].index(self.unvisited_pois[i])
+                j = self.unvisited_pois.index(self.unvisited_pois[i], i+1)
             except ValueError:
                 pass
             if j > -1:
                 logging.warning(
-                    f"{self.unvisited_pois[i]} is duplicated at {j} as {self.unvisited_pois[i+1:][j]}."
+                    f"{self.unvisited_pois[i]} is duplicated at {j} as {self.unvisited_pois[j]}."
                 )
                 duplicates.append(
-                    (self.unvisited_pois[i], self.unvisited_pois[i + 1 :][j])
+                    (self.unvisited_pois[i], self.unvisited_pois[j])
                 )
 
             # else:
@@ -502,16 +504,16 @@ def connect(retries=999):
     connected = False
     sm = None
     i = 0
-    while not connected and i <= retries:
+    while not connected and i < retries:
         i += 1
         try:
             sm = SimConnectMobiFlight()  # SimConnect()
             connected = True
         except KeyboardInterrupt:
             quit()
-        except Exception as e:
+        except ConnectionError as e:
             # ui.write_message(type(e).__name__, e)
-            sleep(1)
+            sleep(i)
     return sm
 
 
@@ -579,9 +581,11 @@ def main(stdscr):
     tts_engine = pyttsx3.init()
     flight_data.update()
     pt.set_location(flight_data.location[0], flight_data.location[1])
-    if config.traveling_salesman:
+    if config.traveling_salesman and not config.networkx:
         pt.get_total_ordering()
         pt.save_unvisited_pois()
+    elif config.traveling_salesman and config.networkx:
+        pt.have_total_order = True
     seen_this_execution = []
 
     while True:
@@ -625,9 +629,10 @@ if __name__ == "__main__":
         sm = connect(retries=3)
         if sm == None:
             offline_main()
-        else:
-            os.system("mode con: cols=65 lines=20")
-            wrapper(main)
+            logging.info("Creating total order.")
+        
+        os.system("mode con: cols=65 lines=20")
+        wrapper(main)
     except OSError:
         os.system("cls")
         logging.critical("Flight Simulator exited. Shutting down.")
