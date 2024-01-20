@@ -4,12 +4,15 @@ import plotly.graph_objects as go
 import pandas as pd
 import sqlite3 as sql
 import poi_tracker
+from time import time
 
 line_width = 4
 marker_size = line_width + 2
-
+start_pathing = time()
 #poi_tracker.offline_main()
+end_pathing = time()
 
+start_plotting = time()
 fig = go.Figure()
 
 con = sql.connect(
@@ -115,6 +118,7 @@ for i in range(0, len(df_flight_paths)):
 df_pois = pd.read_csv(
     os.path.expandvars("%APPDATA%/poi_tracker/data/unvisited_pois.csv")
 )
+df_visited = pd.read_csv(os.path.expandvars("%APPDATA%/poi_tracker/data/visited_pois.csv"))
 # df_pois = pd.read_csv("total_path.csv")
 
 last_idx = len(df_pois) - 1
@@ -265,6 +269,27 @@ fig.update_layout(
     margin=go.layout.Margin(l=0, r=0, b=0, t=0, pad=0),
     autosize=False,
 )
+# Center map on the most recent destination
+fig.update_geos(projection_rotation={'lon':df_flight_paths["destination_lonx"].tail(1).values[0]})
 
-fig.write_image("./map.png", width=15360, height=8640)
+ratio=16/9
+h=8640
+w=int(h*ratio)
+fig.write_image("./map.png", width=w, height=h)
+fig.write_image("./map.svg")
+end_plotting = time()
+
+print(f"Path finding took: {end_pathing - start_pathing} seconds")
+print(f"Plotting took: {end_plotting - start_plotting} seconds")
+print(f"Total time: {end_plotting - start_pathing} seconds")
+print(f"Tour progress:")
+print(f"Visited POIs: {len(df_visited)}")
+print(f"Unvisited POIs: {len(df_pois)}")
+total_pois = int(len(df_pois) + len(df_visited))
+print(f"Total POIs: {total_pois}")
+sigfigs = len(str(total_pois))
+pct_complete=round(len(df_visited)/total_pois*100, sigfigs-2)
+print(f"Tour Progress: {len(df_visited)} / {total_pois} ({pct_complete}%)")
+
+
 fig.show()

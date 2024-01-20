@@ -4,7 +4,7 @@ import regex
 from poi import LnmUserpoint
 
 soup = None
-with open("data_collection/Microsoft Flight Simulator MapWU11.kml") as x:
+with open("data_collection\Microsoft Flight Simulator Map.kml") as x:
     soup = bs4.BeautifulSoup(x.read(), "xml")
 
 # for each folder
@@ -17,12 +17,13 @@ skip_folders = ["temp", "Aquila Simulations Add-ons"]
 folders_to_kinds = {
     "Hand Crafted Airports": "Airport",
     "World Updates (All Points of Interests)": "POI",
-    "Points of Interest": "POI",
+    "Points of Interest (Original)": "POI",
     "3D cities (Photogrammetry)": "Settlement",
+    "Default": "POI"
 }
 
 pois = []
-name_regex = regex.compile("(WU#\d+:?)?(GOTY Ed -)?(.*)")
+name_regex = regex.compile("((CU ?# ?|WU ?# ?)\d+:?)?(GOTY Ed -)?(.*)")
 userpoints = []
 for f in soup.find_all("Folder"):
     folder_name = f.find("name").get_text()
@@ -31,8 +32,8 @@ for f in soup.find_all("Folder"):
     print(f"{folder_name} = {folders_to_kinds[folder_name]}")
     for p in f.find_all("Placemark"):
         # print(p.find('name').get_text())
-        # print(name_regex.split(p.find('name').get_text()))
-        matches = name_regex.split(p.find("name").get_text())
+        #print(name_regex.split(p.find('name').get_text()))
+        matches = name_regex.match(p.find("name").get_text())
         try:
             ident = p.find("description").get_text().replace("ICAO: ","")[0:4]
             if "<" in ident:
@@ -40,7 +41,7 @@ for f in soup.find_all("Folder"):
 
         except AttributeError:
             ident =""
-        n = matches[3].strip().replace(",", "-")
+        n = matches[-1].strip().replace(",", "-")
         c = p.Point.coordinates.get_text().strip().split(",")
         region = ""
         for m in matches[1:3]:

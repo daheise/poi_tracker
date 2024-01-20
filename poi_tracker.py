@@ -10,8 +10,10 @@ from networkx.algorithms import approximation as approx
 import re
 import sqlite3 as sql
 import pandas as pd
+from copy import deepcopy
 from time import sleep
 from lib.koseng.simconnect_mobiflight import SimConnectMobiFlight
+from SimConnect import AircraftEvents
 from config import PoiTrackerConfig
 
 from flight_parameters import FlightDataMetrics, SightseeingDiscriminator
@@ -476,13 +478,45 @@ class PoiTracker:
         ]
         return (unvisited, visited)
 
+    def get_total_path_distance(self, pois):
+        d = geopy.distance.great_circle(
+                (self.cur_lat, self.cur_lon), (pois[0].lat, pois[0].lon)
+            ).nm
+        for i in range(0, len(pois)-1):
+            d += geopy.distance.great_circle(
+                (pois[i].lat, pois[i].lon), (pois[i+1].lat, pois[i+1].lon)
+            ).nm
+        return d
+
+    def set_first_poi(self):
+        self._update_poi_distances()
+        distances = []
+        tmp = deepcopy(self.unvisited_pois)
+        for i in range(0, len(self.unvisited_pois)):
+            distances.append(self.get_total_path_distance(tmp))
+            tmp = tmp[1:] + [tmp[0]]
+        assert(len(distances) == len(self.unvisited_pois))
+        m = min(distances)
+        idx = distances.index(m)
+
+        #next = min(self.unvisited_pois, key=lambda p: p.distance)
+        #idx = self.unvisited_pois.index(next)
+        tmp = self.unvisited_pois[idx:] + self.unvisited_pois[0:idx]
+        assert(len(tmp) == len(self.unvisited_pois))
+        self.unvisited_pois = tmp
+        print(self.get_total_path_distance(self.unvisited_pois))
+        pass
+
     def get_total_ordering(self):
+        logging.debug("Starting total ordering")
         old_count = self.config.closest_count
         self.config.closest_count = 9999
         self._update_poi_distances()
         (self.unvisited_pois, count) = self._sort_pois(self.unvisited_pois, True)
         self.config.closest_count = old_count
         self.have_total_order = True
+        self.set_first_poi()
+        
         return (self.unvisited_pois, count)
 
     def remove_pois(self, pois=[]):
@@ -568,12 +602,15 @@ def offline_main():
     print(total_distance, max_leg, len(x[0]))
 
 
+
 # Defining main function
 def main(stdscr):
     stdscr.nodelay(True)
     ui = PoiCurses(stdscr)
     config = PoiTrackerConfig("config.ini")
     sm = connect()
+    ae = AircraftEvents(sm)
+    refuel = ae.find("REPAIR_AND_REFUEL")
 
     flight_data = FlightDataMetrics(sm, config)
     discriminator = SightseeingDiscriminator(flight_data, config)
@@ -619,6 +656,7 @@ def main(stdscr):
                 tts_engine.setProperty("rate", normal_rate)
                 tts_engine.runAndWait()
                 seen_this_execution.append(p)
+        refuel()
         sleep(config.update_speed)
 
 

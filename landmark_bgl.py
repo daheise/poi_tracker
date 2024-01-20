@@ -1,4 +1,5 @@
 # Rudimentary bgl reader
+#TODO: This does not work
 import io
 import os
 from pathlib import Path

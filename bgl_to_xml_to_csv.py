@@ -9,12 +9,13 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 msfsbgltoxml_path = os.path.expandvars("%USERPROFILE%/bin/msfsbglxml/MSFSBglXml.exe")
-msfs_packages_path =  os.path.expandvars("%USERPROFILE%/AppData/Local/Packages/Microsoft.FlightSimulator_8wekyb3d8bbwe/LocalCache/Packages/Official/")
+# msfs_packages_path =  os.path.expandvars("%USERPROFILE%/AppData/Local/Packages/Microsoft.FlightSimulator_8wekyb3d8bbwe/LocalCache/Packages/Official/")
+msfs_packages_path =  os.path.expandvars("F:/MSFS2020_PACKAGES/Microsoft.FlightSimulator_8wekyb3d8bbwe/LocalCache/Packages/Official/")
 xml_path =  os.path.expandvars("%USERPROFILE%/repos/github/msfs_poi_tracker/data_collection/xml")
 
 # Just to make filenames unique
 # counter=0
-# os.makedirs(xml_path)
+# os.makedirs(xml_path, exist_ok=True)
 # for root,dirs,files in os.walk(msfs_packages_path):
 #     files = []
 #     for d in dirs:
@@ -75,7 +76,7 @@ for filename in files:
         # if "Cascade Dam" in str(soup):
         #     sys.exit()
 
-with open("bgl_to_xml_to_lnm.csv", "w") as w:
+with open("data_collection/bgl_to_xml_to_lnm.csv", "w") as w:
     w.writelines([str(p) + "\n" for p in pois])
 
 print(counter)
